@@ -1,0 +1,1347 @@
+PatientID,TimepointOfTransplant,HCTSource,Disease,wbcPatientId,autoFmtPatientId,nejmPatientId
+FMT.0161,30,TCD,Multiple Myeloma,000f9b9617d476abf1f143,,1
+667,8,PBSC_unmodified,Leukemia,001f938eeec58c18a4604a,491,1
+1277,5,PBSC_unmodified,Leukemia,0079d6c0a49b8b6c3daf83,748,1
+464,8,BM_unmodified,Leukemia,00a7221374f597b954d09f,342,1
+420,6,cord,Non-Hodgkin's Lymphoma,00d7a5d77e1a5f7a9d3f3c,218,1
+FMT.0216,185,PBSC_unmodified,Non-Hodgkin's Lymphoma,0108dfb76b3943dc8934a8,,1
+1179,1,cord,Leukemia,0113b6b5aa14468331fd4b,750,1
+988,3,PBSC_unmodified,Leukemia,0114e2869efb5b85f4950b,687,1
+549,5,PBSC_unmodified,Myelodysplastic Syndromes,013f51d44476079d04c831,80,1
+670,6,PBSC_unmodified,Myeloproliferative Disorder,01479a8497cdea38317448,347,1
+679,8,TCD,Multiple Myeloma,014aa3b13c087d258eca40,472,1
+FMT.0171,16,TCD,Leukemia,01bb0c3eb95ae6b4f10004,,1
+1893,2,BM_unmodified,Non-Hodgkin's Lymphoma,01df20d4de9592488b0825,,0
+937,-1,PBSC_unmodified,Leukemia,01f11bdcbd4b0897d528d6,217,1
+FMT.0007,12,PBSC_unmodified,Leukemia,01f8929eb7be600624dbab,,1
+823,-1388,TCD,Leukemia,02194f18fe78fd8ce6b9ed,214,0
+823,-1,TCD,Leukemia,02194f18fe78fd8ce6b9ed,214,0
+414,-618,PBSC_unmodified,Hodgkin's Disease,023579ce57c66235ac7dc6,,1
+1629,10,PBSC_unmodified,Non-Hodgkin's Lymphoma,02485fbf3ac37cd7201831,,0
+207,2,PBSC_unmodified,Leukemia,027533316bfa65dee227f5,283,1
+561,-174,PBSC_unmodified,Non-Hodgkin's Lymphoma,027dd508d6e511b9647f49,,1
+625,7,TCD,Leukemia,02872b52ea6a685694f92a,,1
+625,756,PBSC_unmodified,Leukemia,02872b52ea6a685694f92a,,1
+520,5,TCD,Myelodysplastic Syndromes,02a1205fe4c6be1ae0ebae,423,1
+520,746,PBSC_unmodified,Myelodysplastic Syndromes,02a1205fe4c6be1ae0ebae,423,1
+949,6,cord,Myelodysplastic Syndromes,02aa183acb0417206586ec,657,1
+936,2,TCD,Leukemia,02c090ef3457811a0d46ca,658,1
+FMT.0169,928,PBSC_unmodified,Non-Hodgkin's Lymphoma,02ccfb467aa6a4a92122d8,,1
+1533,299,PBSC_unmodified,Multiple Myeloma,02d62c17053e673065fc58,,0
+510,-4,PBSC_unmodified,Leukemia,0382b8a382cabcd7d7333f,419,1
+1577,6,PBSC_unmodified,Myelodysplastic Syndromes,0383a01053282d0a1da91a,,1
+FMT.0107,20,PBSC_unmodified,Myelodysplastic Syndromes,03ac27da97dc05981f5766,C11,1
+229,9,TCD,Leukemia,03dc9a2a2a61c20cba659f,309,1
+497,0,TCD,Myelodysplastic Syndromes,03e6e09744d1dcb6a2f72d,319,1
+FMT.0042,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,03f77e0e22362ac236451e,,1
+1305,13,PBSC_unmodified,Myeloproliferative Disorder,041211fb144ed2c3fa1e50,,1
+1208,1,PBSC_unmodified,Leukemia,04901fa9efc9cb005f0c1e,,1
+104,10,TCD,Leukemia,04b496e444980082ce2111,227,1
+FMT.0133,8,PBSC_unmodified,Leukemia,051bac3977c0dc96398749,,1
+1234,-2,BM_unmodified,Myelodysplastic Syndromes,052375a2e0a63a1b2683f5,,1
+FMT.0105,20,TCD,Multiple Myeloma,0555bfe76317c3a99281d2,,1
+117,7,TCD,Leukemia,059e211d1a6d3eef4de274,99,1
+562,3,TCD,Leukemia,059fb1b9a81053cbd1674b,476,1
+1891,2,cord,Non-Hodgkin's Lymphoma,06055ccf76ff461ccce7a1,,0
+242,1,TCD,Myelodysplastic Syndromes,06262364915f4156c1ce88,302,1
+FMT.0088,-2,BM_unmodified,Leukemia,06567b73a88251a589bfd2,,1
+FMT.0198,3,TCD,Leukemia,06a6a2425dd77703905123,,1
+FMT.0174,14,TCD,Leukemia,06d549076893fd5edc70ce,,1
+291,10,TCD,Multiple Myeloma,06dd96df4ea1289208bbca,114,1
+FMT.0163,7,BM_unmodified,Leukemia,06e0058065121cc42bc8c3,,1
+FMT.0076,6,cord,Leukemia,0732f69a60924b8f0152f7,T8,1
+FMT.0218,0,PBSC_unmodified,Leukemia,07c5a3683913a883ba2d06,,0
+784,-6,PBSC_unmodified,Leukemia,07d5ef2bc20c7b851a0c54,586,1
+276,2,BM_unmodified,Leukemia,087072b18b141eeaeddeb3,,1
+1772,8,TCD,Leukemia,08ae57fd0788c6c0a7608c,,0
+1937,2,PBSC_unmodified,Myelodysplastic Syndromes,09c0282988adf4e712f0b8,,0
+2101,2,PBSC_unmodified,Myelodysplastic Syndromes,09ce0b14964478ea1df12d,,0
+177,2,TCD,Leukemia,0a1d271d7fb69dd015d73c,273,1
+278,8,TCD,Myelodysplastic Syndromes,0a7c7b1e45a30332a5241f,294,1
+659,4,PBSC_unmodified,Non-Hodgkin's Lymphoma,0aeef0efbbda1958b1d3b0,339,1
+pt_with_samples_642_643,-40,TCD,Myeloproliferative Disorder,0b19b66b8728ecf787d7ba,528,1
+792,4,TCD,Myeloproliferative Disorder,0b6ff50ba2147bf607b8f4,552,1
+571,0,cord,Leukemia,0b94d9806548a7fabf0f6b,386,1
+2144,3,cord,,0bbb4557be492def141882,,0
+1049,4,PBSC_unmodified,Leukemia,0bbcb0d5eb1e3630cdfcfe,705,1
+741,-1,TCD,Myelodysplastic Syndromes,0c75f87cd5183b38b2074f,545,1
+1259,10,TCD,Leukemia,0d3deb1aa146420ea4377b,765,1
+FMT.0109,17,BM_unmodified,Leukemia,0d683fcdb687ec3a6f1096,,1
+FMT.0053,5,PBSC_unmodified,Hodgkin's Disease,0d9a7bd031166f0903a8d7,,1
+2121,9,PBSC_unmodified,,0db268b53cb2b0b4624f5e,,0
+966,0,cord,Leukemia,0dbf8f3b5c44831fa63cdb,678,1
+1220,7,BM_unmodified,Myelodysplastic Syndromes,0e8aef9186244bbdeb9bb6,,1
+FMT.0011,6,PBSC_unmodified,Leukemia,0e8ea1c8ed5b2a0d879133,,1
+964,5,cord,Myeloproliferative Disorder,0e8f1931e10059e0afe730,136,1
+292,7,PBSC_unmodified,Non-Hodgkin's Lymphoma,0e8ffbd41abded35917f27,353,1
+FMT.0234,6,PBSC_unmodified,Leukemia,0ef4e7dfaa9ba6c107c6d2,,1
+1244,5,TCD,Leukemia,0f0a521872c3061670bf37,,1
+1757,6,BM_unmodified,Myeloproliferative Disorder,0f0e735fb05b8dfd877424,,0
+1128,5,cord,Leukemia,0f435796ae49defea65c92,738,1
+1245,7,BM_unmodified,Hodgkin's Disease,0f6546c2559a003894613a,,1
+184,2,TCD,Leukemia,0f837377422c0c9e1cd843,275,1
+184,363,PBSC_unmodified,Leukemia,0f837377422c0c9e1cd843,275,1
+607,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,0f91286b9e6f49880d8904,265,1
+205,7,TCD,Leukemia,0fdd60351d8536e57cc5b3,88,1
+848,-3,TCD,Myelodysplastic Syndromes,0fff2825a2138ae414442d,588,1
+FMT.0225,33,PBSC_unmodified,Non-Hodgkin's Lymphoma,1017b67510ed386a9863f8,,1
+227,3,TCD,Leukemia,1024939d6c0a92b4662658,216,1
+1881,-3,PBSC_unmodified,Leukemia,10eaddcdc4ff2942d3c76d,,0
+686,5,PBSC_unmodified,Leukemia,1135ca1001dea147d1e3de,179,1
+701,6,PBSC_unmodified,Leukemia,1173dfad6eceedd566ad60,544,1
+1036,63,cord,Leukemia,118064b219e4f2ccb8a6df,706,1
+946,3,BM_unmodified,Leukemia,1193c9ff8adad5ad6add33,583,1
+424,7,PBSC_unmodified,Non-Hodgkin's Lymphoma,11a94263de6bcfe0c951f3,50,1
+FMT.0220,6,BM_unmodified,Aplastic Anemia,11ca42800b08b28762b481,,1
+641,4,PBSC_unmodified,Leukemia,1208cf93b6a19ac8021707,495,1
+973,3,PBSC_unmodified,Leukemia,12474450f023d1c7919551,688,1
+FMT.0020,6,cord,Leukemia,12850a83b2e9bc0105a96a,T3,1
+570,-5,BM_unmodified,Leukemia,13c2f153fade4b99265b10,453,1
+147,-136,TCD,Multiple Myeloma,14093a1ab00ff9bb64d401,,1
+1798,1,TCD,Leukemia,1425d6d6fc858b790ea9d0,,0
+1176,2,cord,Leukemia,143be57df0b039ef4b3c74,747,1
+902,3,TCD,Multiple Myeloma,14574aa7babd417c928d0e,590,1
+1297,5,PBSC_unmodified,Leukemia,14cb6aa0a4b90cb2d48dce,,1
+717,9,TCD,Myelodysplastic Syndromes,14f66d11df5eca834e4355,553,1
+1071,5,cord,Leukemia,152133ddb68c88c6a337e4,668,1
+1354,7,TCD,Leukemia,15b50f659d5066438d99ef,,1
+1580,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,15ba9f1b5201b70b64cf0e,,1
+626,7,PBSC_unmodified,Non-Hodgkin's Lymphoma,15c419ad8dced9e15f7f4a,508,1
+239,10,TCD,Leukemia,16fda86a35a070a668d3df,290,1
+FMT.0142,7,cord,Leukemia,1707bc3cfd0dc87c135984,726,1
+517,0,TCD,Myelodysplastic Syndromes,171fca9544676e4e04fd04,30,1
+FMT.0050,10,TCD,Leukemia,17391b8feccb550fe3f7dd,C5,1
+1202,5,PBSC_unmodified,Leukemia,173df91e6bdf79c08a928a,743,1
+970,-5,PBSC_unmodified,Leukemia,173e4bd8dc9ad808c67ee3,681,1
+837,-1,TCD,Multiple Myeloma,1745582ffda8650725064e,348,1
+1671,7,PBSC_unmodified,Non-Hodgkin's Lymphoma,1753ba2e9be09ed03806cc,,0
+FMT.0251,1,PBSC_unmodified,Myelodysplastic Syndromes,183aa8c63b28813c8b5475,,0
+FMT.0237,8,PBSC_unmodified,Leukemia,185c2a823dd816c460c995,,1
+1314,0,PBSC_unmodified,Leukemia,18aea456f6e212ea6c90ba,,1
+564,-11,PBSC_unmodified,Non-Hodgkin's Lymphoma,18b985974f04cdd1e04e4f,57,1
+733,9,TCD,Leukemia,18ca41b91519988a5913f3,564,1
+108,10,TCD,Leukemia,193077e739a2d11195aad9,185,1
+254,8,TCD,Myelodysplastic Syndromes,194fc8c3ee86dc83e2e512,326,1
+277,9,TCD,Leukemia,195d7164ea65b9d416b2ac,325,1
+1173,4,PBSC_unmodified,Myelodysplastic Syndromes,198d5974caf5981344274e,,1
+FMT.0212,8,cord,Leukemia,19d8c1ce8c541dee744a8d,,1
+637,0,cord,Leukemia,1a1a3c29f71d9d99987fb7,536,1
+810,-5,cord,Leukemia,1a392f6013e1af68b99349,611,1
+408,10,TCD,Leukemia,1aedc0179a7b0d195c933f,324,1
+FMT.0178,100,cord,Leukemia,1b233edd66974c45c12d68,,1
+540,9,TCD,Leukemia,1b2ccf74d916d34cad6c4b,89,1
+687,8,TCD,Multiple Myeloma,1b4518abe768d9c5073d83,113,1
+FMT.0240,6,PBSC_unmodified,Myelodysplastic Syndromes,1bb5eab3ffe3867c0b0d68,,1
+775,8,TCD,Leukemia,1bc543e94bd914274f1e12,482,1
+986,-3,TCD,Leukemia,1bdc3e1612818cf42b81fd,659,1
+FMT.0004,13,PBSC_unmodified,Myelodysplastic Syndromes,1c3441ea0a605b22ab4c06,,1
+2142,8,PBSC_unmodified,,1c49958649082ee829da94,,0
+235,0,BM_unmodified,Leukemia,1c5a0a5c1578caf6ff9ec1,210,1
+FMT.0157,19,PBSC_unmodified,Non-Hodgkin's Lymphoma,1c6f6f960b693dacd0ef95,,1
+1716,3,BM_unmodified,Multiple Myeloma,1ccd99ad1560a2da3d9247,,0
+FMT.0143,22,TCD,Leukemia,1cf46f1af5b23fdebe4d77,,1
+221,9,TCD,Myelodysplastic Syndromes,1d0ce9738a86946f0f6aa6,269,1
+223,5,PBSC_unmodified,Leukemia,1d203a8ac18e871756346e,261,1
+156,46,TCD,Leukemia,1d3cb2853e5070d0e69cce,247,1
+FMT.0108,13,BM_unmodified,Leukemia,1dbea9394f467568071ef6,642,1
+FMT.0019,6,PBSC_unmodified,Leukemia,1de55016fed6ac6b92b6df,,1
+1121,3,TCD,Multiple Myeloma,1e17e51d3f8ab12bb5138e,192,1
+405,6,PBSC_unmodified,Leukemia,1e58dcab9d38b149011774,293,1
+FMT.0041,14,PBSC_unmodified,Leukemia,1e96da99cfda9aafe35a90,,1
+1139,3,PBSC_unmodified,Leukemia,1ea926378fdb452837869d,724,1
+1726,1,PBSC_unmodified,Non-Hodgkin's Lymphoma,1ecbea411ea09ee0f19730,,0
+FMT.0120,6,BM_unmodified,Leukemia,1ee58943a428b5dccad65a,T14,1
+1572,-4,cord,Leukemia,1f0f40d6b825f560a0331d,,0
+595,8,TCD,Myeloproliferative Disorder,1f16fa1c085bb2bdacd5ec,475,1
+1345,6,BM_unmodified,Leukemia,1f47f9e5337f772d835a9c,,1
+1561,6,PBSC_unmodified,Leukemia,1f89653890ac964f7497c9,,1
+107,-14,TCD,Myelodysplastic Syndromes,1fa86d101c43965b0995cc,,1
+FMT.0136,31,TCD,Myelodysplastic Syndromes,1fe50befa6a3ef8af80f8b,,1
+898,7,TCD,Leukemia,1ffaaff038cfded84a28d5,648,1
+1403,-5,PBSC_unmodified,Myelodysplastic Syndromes,20a3b8a02f623b1be28e09,,1
+857,9,TCD,Leukemia,20fd8dc2b8f15a5e7790e0,277,1
+1394,4,PBSC_unmodified,Myelodysplastic Syndromes,2114911c40a09a1244abde,,1
+188,6,cord,Leukemia,21798fbb15d6fdf6f99332,280,1
+FMT.0114,23,TCD,Myelodysplastic Syndromes,21ba20a7bec2237a748cac,,1
+FMT.0114,199,PBSC_unmodified,,21ba20a7bec2237a748cac,,1
+444,5,PBSC_unmodified,Leukemia,21caca2fa07eeedf2df994,337,1
+1098,8,cord,Leukemia,21d194c7e4747c390c64ed,,1
+1822,8,TCD,Leukemia,2261097008502f700ef4b3,,0
+766,6,TCD,Myelodysplastic Syndromes,226ae80381e4140b8d4ce2,127,1
+954,2,TCD,Myelodysplastic Syndromes,228f061101e35ef796eb31,651,1
+280,9,TCD,Myelodysplastic Syndromes,22a71b2ef86b278d31313f,331,1
+1694,9,PBSC_unmodified,Leukemia,22bb8cf0302df760ff2ca2,,0
+1966,10,TCD,Myeloproliferative Disorder,22c2c616ce6666d0e34fcd,,0
+1902,8,TCD,Leukemia,22e088c17ef6a6e06f10c4,,0
+900,-3,PBSC_unmodified,Non-Hodgkin's Lymphoma,22e2d07ce76de8b1f34f2b,514,1
+pt_with_samples_1056_1057_1058_1120,4,PBSC_unmodified,Non-Hodgkin's Lymphoma,230c4a4e1e42454a3733bf,158,1
+FMT.0063,6,PBSC_unmodified,Leukemia,2314663ceda58b12364a02,C6,1
+587,9,TCD,Multiple Myeloma,232447fee20043c2e11345,180,1
+121,32,TCD,Leukemia,234bb1e8e81414292c7397,238,1
+1562,1,BM_unmodified,Leukemia,23a8869806888678720618,,1
+1000,9,TCD,Multiple Myeloma,2401c48f5007ed31ce8203,,1
+426,9,TCD,Myelodysplastic Syndromes,24758a8ab9613ec0ce933b,343,1
+pt_with_samples_1037_1038_1039_1040_1041_1042_1043_1124,1,cord,Leukemia,2482c3f51ee6837262cb78,182,1
+1230,13,cord,Leukemia,248a03139d31f1674db68f,768,1
+1058,4,PBSC_unmodified,Leukemia,2516fbd7d1edba244f76ed,707,1
+1058,807,PBSC_unmodified,Leukemia,2516fbd7d1edba244f76ed,707,1
+2181,4,PBSC_unmodified,,2579dace9b00a8315e57c5,,0
+298,6,cord,Leukemia,259f0c0689754a0d5033bc,244,1
+1598,-41,BM_unmodified,Non-Malignant Hemat Disorders,25c8872eb54a0d06ac6b34,,0
+505,6,TCD,Leukemia,25cfec7e5cb2b02e385240,421,1
+904,9,TCD,Leukemia,266173497a45d8e5e02bc0,626,1
+FMT.0069,15,PBSC_unmodified,Leukemia,266d2264d85ae8bfde60e6,,1
+1097,5,PBSC_unmodified,Myelodysplastic Syndromes,2694d7615a7d7827c92106,713,1
+pt_with_samples_2020_831,51,PBSC_unmodified,Leukemia,26bb5924f9ec724ef37ebf,598,1
+851,9,TCD,Multiple Myeloma,26d1e88622e8b7d294fd81,570,1
+689,17,PBSC_unmodified,Non-Malignant Hemat Disorders,26f818d70f269b36812fd3,518,1
+1134,-4,TCD,Multiple Myeloma,2719b6adc6fb058702abd2,712,1
+1460,7,BM_unmodified,Non-Hodgkin's Lymphoma,275549cf1c35c269f17869,,1
+153,17,TCD,Leukemia,276779be01fcfbd98d7672,246,1
+2150,8,PBSC_unmodified,,27f2558b2d900d4a9d26e5,,0
+271,9,PBSC_unmodified,Leukemia,28574633c15ce62c44408a,340,0
+1708,5,TCD,Multiple Myeloma,289fb8cb93b8a5142e5e57,,0
+940,0,PBSC_unmodified,Non-Hodgkin's Lymphoma,28bab4b5126fa7cbb96e36,2,1
+1347,2,TCD,Leukemia,28bcb3ddef3f8058ebc7c1,,1
+1163,3,BM_unmodified,Myelodysplastic Syndromes,291c32e2e8110ee2e4a1a6,730,1
+684,7,TCD,Leukemia,2946a2ccc81549233e6af6,,1
+684,706,PBSC_unmodified,Leukemia,2946a2ccc81549233e6af6,,1
+1217,5,TCD,Leukemia,298378cef00bd2431ceed4,754,1
+257,3,PBSC_unmodified,Leukemia,2984c88bc8a3dfc3a1e94d,291,1
+1252,6,cord,Leukemia,29f5d1e6cb5030c5b016f2,31,1
+1785,9,TCD,Leukemia,2a2d4355bd23ea1a241fae,,0
+875,7,TCD,Multiple Myeloma,2a39dd16c45536332000aa,620,1
+1196,9,PBSC_unmodified,Leukemia,2a47363c52a9b6324b5524,,1
+288,2,TCD,Leukemia,2a49dc15e321f5eb4eebcc,317,1
+FMT.0155,25,cord,Non-Hodgkin's Lymphoma,2a69a16014fd659516e11f,771,1
+1919,-2,BM_unmodified,Myelodysplastic Syndromes,2aaa7e47502291d8fec386,,0
+878,5,BM_unmodified,Non-Hodgkin's Lymphoma,2b36f1b0be2543aa6ec011,509,1
+1751,3,PBSC_unmodified,Myeloproliferative Disorder,2b3f03a8b7d55a2de3e745,,0
+1751,270,PBSC_unmodified,,2b3f03a8b7d55a2de3e745,,0
+248,8,TCD,Multiple Myeloma,2b5747ce4d77745686d5ab,116,1
+702,2,TCD,Myelodysplastic Syndromes,2b6ff983b8ee2f6eee3e13,549,1
+1606,7,BM_unmodified,Leukemia,2b79fbd68db16178507447,,0
+593,9,TCD,Myelodysplastic Syndromes,2b9fdfb969213855bbff7f,64,1
+131,-259,PBSC_unmodified,Leukemia,2bbc2d4764ededfce148f7,,1
+143,5,PBSC_unmodified,Hodgkin's Disease,2c2d0264cb2787b9788779,252,1
+635,6,TCD,Leukemia,2c3d8db96430623c146924,490,1
+1042,9,TCD,Leukemia,2c4054d1faef9bf2348b68,704,1
+613,6,cord,Non-Hodgkin's Lymphoma,2c8a3fd3aa3b373d3fe636,463,1
+pt_with_samples_1009_1010_1011_1049_1125_145,6,cord,Myelodysplastic Syndromes,2cb8f755953c8e7e729fe3,176,1
+646,4,TCD,Multiple Myeloma,2ce83f43a78792e8113d76,532,1
+2029,1,PBSC_unmodified,Myelodysplastic Syndromes,2d0c9992f7f3853b8d3a3f,,0
+2035,-7,PBSC_unmodified,Leukemia,2d9e440c7dbc2351b4764c,,0
+545,7,TCD,Leukemia,2daf1df3e11ed74a730c24,468,1
+FMT.0122,12,PBSC_unmodified,Non-Hodgkin's Lymphoma,2db6c774db2bf0e6ff21f3,,1
+777,3,PBSC_unmodified,Myelodysplastic Syndromes,2dcd6617886c808a97a3a6,20,1
+282,9,TCD,Leukemia,2e246308735efc412a8c87,1,1
+FMT.0110,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,2e3b0fd2aa4aba04d72f8a,259,1
+1066,5,PBSC_unmodified,Non-Hodgkin's Lymphoma,2e45122e96a5e75c756317,710,1
+1362,5,PBSC_unmodified,Non-Hodgkin's Lymphoma,2e54fe2e45f4dfbf6a175d,683,1
+616,9,TCD,Leukemia,2e5583b4d5f75e91f25586,504,1
+538,-6,PBSC_unmodified,Leukemia,2e880252b39c9b38e0136b,23,1
+610,5,cord,Leukemia,2ea508ac288e88e2d6ad2b,523,1
+FMT.0128,8,cord,Myelodysplastic Syndromes,2eb7aa207f3a4cce6be6a9,,1
+580,4,TCD,Leukemia,2ec9cee1e94f093db60c83,473,1
+592,11,TCD,Leukemia,2f4546e775f8d1505aaf53,484,1
+110,8,TCD,Multiple Myeloma,2f624aadf8ed8fc8317107,187,1
+716,2,PBSC_unmodified,Myelodysplastic Syndromes,2f68a3fae9d8f5f838436d,19,1
+560,8,TCD,Multiple Myeloma,2fa08605789f3206342cb5,452,1
+FMT.0026,8,PBSC_unmodified,Leukemia,2fe521798f2a170866740c,486,1
+FMT.0026,973,PBSC_unmodified,Leukemia,2fe521798f2a170866740c,486,1
+1333,8,TCD,Leukemia,303582cf4a4e270742e928,,1
+786,3,PBSC_unmodified,Leukemia,306e9ca377530985becc6d,578,1
+1262,-9,PBSC_unmodified,Leukemia,30d9fc8f92071d4d673aed,727,1
+2044,-8,PBSC_unmodified,Leukemia,31830ac2205c96b88c158b,,0
+436,2,PBSC_unmodified,Non-Hodgkin's Lymphoma,31f988d4d9f81f6c5aa1a8,358,1
+455,8,TCD,Leukemia,324e8a395e4d4b46dbaaf9,399,1
+490,-3,TCD,Leukemia,3272d8e903cc3296ccdcbf,412,1
+1080,8,TCD,Leukemia,32921d5737d4bd665589c8,715,1
+FMT.0073,6,cord,Non-Hodgkin's Lymphoma,32c8e9dac466f04b7098c5,,1
+FMT.0164,8,TCD,Leukemia,32ca4242871519ff3b84b1,,1
+FMT.0192,15,PBSC_unmodified,Non-Hodgkin's Lymphoma,32d4d277a5649b2b3c75e1,,1
+FMT.0201,10,TCD,Leukemia,32e44c7bd322f980b3e865,,1
+653,6,cord,Hodgkin's Disease,32e829c798b538b9fb745c,480,1
+FMT.0112,15,cord,Leukemia,3307e0923dc561269cb334,,1
+127,-82,PBSC_unmodified,Non-Hodgkin's Lymphoma,333621549115f41dce4cf4,87,1
+1644,-14,PBSC_unmodified,Leukemia,333c120242dc7b768a0cac,,0
+1687,8,TCD,Myelodysplastic Syndromes,336d8655fbad75498735ca,,0
+963,4,PBSC_unmodified,Myelodysplastic Syndromes,3379012da2667d3dd5c96a,666,1
+1229,6,cord,Leukemia,3449b56b0b9ff4dcac6c79,,1
+434,10,TCD,Leukemia,34760ea0a0dcb7c3bb0a63,159,1
+210,6,cord,Leukemia,349a471f876506c2a0bb4a,311,1
+1806,8,TCD,Myeloproliferative Disorder,34a9722ff1669911b0c117,,0
+403,6,cord,Leukemia,34d24c5b1cb8d610c23a0d,383,1
+951,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,34d74267ed2a07301223af,625,1
+521,3,PBSC_unmodified,Non-Hodgkin's Lymphoma,3519b28405bb93f644321c,229,1
+542,1,TCD,Myelodysplastic Syndromes,358065b071f81ab6aceae5,402,1
+956,13,cord,Leukemia,35a874ec30e3a0b5a27594,645,1
+985,0,TCD,Multiple Myeloma,35d9ec68ce586136ba5515,675,1
+1089,8,TCD,Myelodysplastic Syndromes,361395f203cc5820a77d0a,,1
+1934,2,BM_unmodified,Myelodysplastic Syndromes,367100a0d03bda18e3de43,,0
+1261,10,TCD,Leukemia,36715726acc0d496bb2346,769,1
+1758,7,TCD,Leukemia,36ddf866431173abbc0fd0,,0
+FMT.0202,7,PBSC_unmodified,Leukemia,36ff6a29e68af8a8d06528,,1
+1029,59,PBSC_unmodified,Leukemia,3736d04f20304c84612794,32,1
+551,4,TCD,Multiple Myeloma,380065b4be7229cb30028d,440,1
+758,10,TCD,Multiple Myeloma,380f3f1cfa1b252c1071da,371,1
+FMT.0060,50,BM_unmodified,Myelodysplastic Syndromes,38420c6a5b7b8273d04ac2,,1
+502,8,TCD,Multiple Myeloma,3867a5f87f98feff0ef0c2,409,1
+199,-3,TCD,Leukemia,3894532c72d6a97c478688,267,1
+FMT.0176,6,cord,Leukemia,38ea84bb99bae205f6b2a8,,1
+196,6,TCD,Myelodysplastic Syndromes,38ff87198e6497bae6a02f,171,1
+557,2,TCD,Leukemia,391c20b1eedfa3c65ee14a,462,1
+1833,4,PBSC_unmodified,Leukemia,3977be0e4b70575974c904,,0
+FMT.0093,9,TCD,Multiple Myeloma,398756dc8f5513128ea0c5,C7,1
+845,0,TCD,Multiple Myeloma,39c22c7c08d652d2b64842,66,1
+1663,1,TCD,Leukemia,39c9b3056007d720a5ba86,,0
+1998,-4,PBSC_unmodified,Myeloproliferative Disorder,3b3d1934330269ef9f02ab,,0
+1001,3,cord,Leukemia,3b6772ed982d10c47cd58d,686,1
+979,3,PBSC_unmodified,Non-Hodgkin's Lymphoma,3baf5161c545f4642900e4,272,1
+606,5,PBSC_unmodified,Non-Hodgkin's Lymphoma,3bc8f1e72631eb02a1bcb9,467,1
+1371,7,TCD,Myelodysplastic Syndromes,3bd13c67ec273a3ca14a55,,1
+1312,2,BM_unmodified,Leukemia,3be8fe1a1f43a1ab30c6e7,,1
+FMT.0099,13,TCD,Leukemia,3bf14dbd427c9a2f06180e,C8,1
+FMT.0238,13,TCD,Leukemia,3c1bb589148e491e468578,,1
+189,5,PBSC_unmodified,Leukemia,3c379493381951c94b2d3d,65,1
+FMT.0187,14,BM_unmodified,Leukemia,3ce9282f72dd815f18e6ad,,1
+1546,-5,BM_unmodified,Myelodysplastic Syndromes,3d25fe1fe7f3b9b675549e,,1
+814,5,PBSC_unmodified,Leukemia,3d39d6a2a9a5f0fb3ef7ed,606,1
+FMT.0228,6,PBSC_unmodified,Leukemia,3d3d05a7109c78a14934d4,,1
+FMT.0062,112,cord,Non-Hodgkin's Lymphoma,3d89559bb0801598211996,721,1
+661,-1323,TCD,Leukemia,3de6f9bd89014b57704b9f,162,1
+661,98,PBSC_unmodified,Leukemia,3de6f9bd89014b57704b9f,162,1
+FMT.0118,10,PBSC_unmodified,Non-Hodgkin's Lymphoma,3e7180b1a35a66c53ba1c1,,1
+1378,879,PBSC_unmodified,,3f44ced59578538761273e,,0
+2175,1,PBSC_unmodified,,3f50cf403b16522b88635c,,0
+1479,4,PBSC_unmodified,Non-Hodgkin's Lymphoma,3faee65a0a44b72f9018a5,,1
+1658,5,PBSC_unmodified,Non-Hodgkin's Lymphoma,3fb9bdf321999946e8b519,,0
+665,8,TCD,Leukemia,3fe4475a02d83846a37076,44,1
+665,737,PBSC_unmodified,Leukemia,3fe4475a02d83846a37076,44,1
+284,7,PBSC_unmodified,Leukemia,402d79a720ecf52716b119,286,1
+644,9,TCD,Multiple Myeloma,402dfc94233ce71c52812a,499,1
+FMT.0189,29,BM_unmodified,Leukemia,40383fed69fd3a912d6aa1,,1
+478,7,TCD,Myeloproliferative Disorder,406fc762ee3c5818071974,368,1
+211,8,TCD,Multiple Myeloma,40769f8339edf272825e20,161,1
+1021,3,PBSC_unmodified,Non-Hodgkin's Lymphoma,40c35b75c25a06526992d6,692,1
+1118,-20,cord,Myelodysplastic Syndromes,4178e85423375e904c0a8b,,1
+1118,17,PBSC_unmodified,Myelodysplastic Syndromes,4178e85423375e904c0a8b,,1
+pt_with_samples_2008_748,156,TCD,Leukemia,418820a546187e47878824,554,1
+1086,1,PBSC_unmodified,Leukemia,422f86ef60c996b1cf73b7,676,1
+722,9,TCD,Myelodysplastic Syndromes,425228cf1cdfcdb37ef880,434,1
+2065,3,PBSC_unmodified,Leukemia,4289b901509e6052754eeb,,0
+639,6,PBSC_unmodified,Leukemia,428d997bc1fa1c7f706e30,208,1
+pt_with_samples_1077_1078_1079_1080,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,432b44421061719fd0c7c6,142,1
+612,9,TCD,Myelodysplastic Syndromes,434648c8fb3ed8e00b2141,461,1
+FMT.0206,34,BM_unmodified,Leukemia,438217fec2f2b07e73ced4,,1
+115,-30,PBSC_unmodified,Leukemia,43a8f7dbf21d96c112429c,219,1
+682,-1,PBSC_unmodified,Leukemia,43c08d30584796cdbc9118,537,1
+1730,4,PBSC_unmodified,Leukemia,43dba793374dd789c1776c,,0
+417,4,TCD,Myelodysplastic Syndromes,43e2747f7567e5cde67ddb,333,1
+FMT.0023,5,PBSC_unmodified,Myelodysplastic Syndromes,43eeb2b61262448bead22b,,1
+FMT.0002,11,TCD,Leukemia,444ae43d61a3ec1b7de52f,,1
+771,8,TCD,Multiple Myeloma,444f55be78342b08e2b71b,35,1
+866,6,cord,Leukemia,446cf73204b56381ad6869,641,1
+FMT.0138,17,TCD,Myeloproliferative Disorder,44796687aad06b40a7bf75,,1
+1072,-135,PBSC_unmodified,Leukemia,448990c7aef09bc607efb7,,1
+1053,3,PBSC_unmodified,Myeloproliferative Disorder,44bd3b5210c7bb84228b0f,,0
+1053,600,PBSC_unmodified,Myeloproliferative Disorder,44bd3b5210c7bb84228b0f,,0
+430,3,cord,Leukemia,44d2d4fef564af826437e2,54,1
+928,5,PBSC_unmodified,Hodgkin's Disease,4509e8bcbfc6694b4001b6,555,1
+168,9,TCD,Myelodysplastic Syndromes,45d1f975bd89f385f13869,42,1
+723,4,PBSC_unmodified,Myeloproliferative Disorder,45e79823a8eea955b9818f,94,1
+723,385,PBSC_unmodified,Myeloproliferative Disorder,45e79823a8eea955b9818f,94,1
+872,7,TCD,Leukemia,45f7fa4fa0ff6e5d4b5ca0,617,1
+872,573,PBSC_unmodified,Leukemia,45f7fa4fa0ff6e5d4b5ca0,617,1
+1293,2,PBSC_unmodified,Non-Hodgkin's Lymphoma,45fd77831708f8bdca2d98,169,1
+882,5,PBSC_unmodified,Non-Hodgkin's Lymphoma,4645996bc10cb5945b1bf7,155,1
+FMT.0200,8,PBSC_unmodified,Non-Hodgkin's Lymphoma,477934bcebfdecf6548f51,,1
+1130,7,PBSC_unmodified,Non-Hodgkin's Lymphoma,481ec14fb36025e1dfab0f,,1
+696,7,TCD,Leukemia,48bb049d514b4daf2b2997,516,1
+FMT.0075,-2960,TCD,Leukemia,48bc2dedde5706b563e1e4,,0
+FMT.0075,8,PBSC_unmodified,Myelodysplastic Syndromes,48bc2dedde5706b563e1e4,,0
+FMT.0117,23,TCD,Leukemia,48c4f7863e337d20752856,775,1
+1642,10,TCD,Leukemia,48ee5269cfe57dd768e4ed,,1
+1686,9,TCD,Leukemia,491aeab22390d8810c6604,,0
+525,2,PBSC_unmodified,Non-Hodgkin's Lymphoma,4935a2fee9089868066f6e,120,1
+1092,92,cord,Leukemia,49b563d9c1431d19da341f,731,1
+794,11,TCD,Multiple Myeloma,49c063a9d9f53423523710,520,1
+FMT.0154,5,BM_unmodified,Non-Hodgkin's Lymphoma,49cd8f998facfe3d0f40d3,,1
+FMT.0101,13,PBSC_unmodified,Non-Hodgkin's Lymphoma,49eccc8dc737591cc235b3,111,1
+FMT.0165,20,TCD,Leukemia,4a6ceb4457d72d090b23e6,777,1
+193,10,TCD,Multiple Myeloma,4ac5043d4517f59cd5b7a2,95,1
+FMT.0057,7,cord,Leukemia,4ad67ea7ddd46b772fc3e3,,1
+243,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,4ae6e8698b705d8e480906,115,1
+1532,0,PBSC_unmodified,Non-Hodgkin's Lymphoma,4b03ac81576ca6d09847f3,,1
+1361,9,TCD,Leukemia,4b0c6ed67d037f35939190,,1
+2064,1,PBSC_unmodified,Non-Hodgkin's Lymphoma,4b20e5ef73480c1c2c7a91,,0
+809,8,TCD,Leukemia,4b3a141a96904ee77012df,584,1
+1045,4,PBSC_unmodified,Leukemia,4b7d68eb8e17e839014581,,0
+1045,271,PBSC_unmodified,Leukemia,4b7d68eb8e17e839014581,,0
+1588,1,BM_unmodified,Myelodysplastic Syndromes,4bb76bd006730fe48dcf9e,,1
+FMT.0195,28,TCD,Leukemia,4c1b06025f6e540e71cca1,,1
+FMT.0124,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,4c510407ad322b6320ed68,,1
+pt_with_samples_1012_1013_1014_1015_1016_1017_1018,8,cord,Non-Hodgkin's Lymphoma,4c5e3185aac6836a74a8c5,168,1
+443,9,PBSC_unmodified,Leukemia,4c9b44fcfa947b986bb688,375,1
+162,-440,TCD,Leukemia,4caac81dd8f9fd46929fec,163,0
+162,9,PBSC_unmodified,Leukemia,4caac81dd8f9fd46929fec,163,0
+1167,7,TCD,Multiple Myeloma,4cf339e246e99debe59cb1,696,1
+1167,210,PBSC_unmodified,,4cf339e246e99debe59cb1,696,1
+824,-4,cord,Leukemia,4d55670033fdaa8ad7c697,190,1
+884,9,TCD,Leukemia,4d8b756242a078cbf2f293,638,1
+FMT.0016,14,BM_unmodified,Myelodysplastic Syndromes,4d9e44ac9019c110a71267,,1
+FMT.0016,403,PBSC_unmodified,Myelodysplastic Syndromes,4d9e44ac9019c110a71267,,1
+FMT.0008,10,TCD,Multiple Myeloma,4da746cabb1a9aafbc8c5e,,1
+572,9,TCD,Myelodysplastic Syndromes,4da9d9fdedfddf6b80f015,465,1
+572,266,PBSC_unmodified,,4da9d9fdedfddf6b80f015,465,1
+1805,280,PBSC_unmodified,,4dfdaa0a816f832cd4681f,,0
+228,9,TCD,Myelodysplastic Syndromes,4e0e1523598f87c7525c32,3,1
+2000,128,TCD,Leukemia,4e29a84b2770d3c2f45181,,0
+FMT.0137,170,PBSC_unmodified,Leukemia,4eb14350975528e03709a6,766,1
+258,7,TCD,Leukemia,4fab9360010458838487d3,316,1
+1521,4,BM_unmodified,Leukemia,4fe6afede723a74e7251ec,,1
+FMT.0045,10,PBSC_unmodified,Non-Hodgkin's Lymphoma,4ff94cf79cfe83a0f3fc96,717,1
+1873,0,PBSC_unmodified,Myelodysplastic Syndromes,502dac27b4acafd0598604,,0
+pt_with_samples_1112,-36,cord,Leukemia,514c03aa473056b1a2eabc,188,1
+1302,-4,PBSC_unmodified,Myelodysplastic Syndromes,5160a6c4735353e056b1bf,,1
+842,2,TCD,Leukemia,51a877e5891e6445bbe128,608,1
+802,1,cord,Myelodysplastic Syndromes,51db2531c80fef5d138c5c,110,1
+588,2,cord,Leukemia,51dc1c88790b9073ad222c,513,1
+888,8,TCD,Multiple Myeloma,52276452580c5166671475,627,1
+129,-18,cord,Leukemia,523e069e2984feb981efea,240,1
+129,1450,cord,Leukemia,523e069e2984feb981efea,240,1
+FMT.0188,98,PBSC_unmodified,Non-Hodgkin's Lymphoma,5256409ca7234721f704b6,,1
+FMT.0156,1179,PBSC_unmodified,Non-Hodgkin's Lymphoma,526aebc43dfbdf54276c6f,,1
+791,9,TCD,Myelodysplastic Syndromes,52820817dd063f401473ee,8,1
+pt_with_samples_185_91,577,cord,Non-Hodgkin's Lymphoma,528a13bfba5b2c8c3d0be8,250,1
+846,-3,PBSC_unmodified,Hodgkin's Disease,52955ec3d96b772cb3bd92,160,1
+714,7,TCD,Leukemia,52b82a54f3e9c98d20c70e,529,1
+921,5,TCD,Leukemia,52ed4a61094de68341ffdf,640,1
+FMT.0203,6,cord,Leukemia,53100d39190194384f0f22,,1
+409,4,TCD,Multiple Myeloma,53a6cfdfa069aeed7bdb08,172,1
+pt_with_samples_833_883,203,cord,Non-Hodgkin's Lymphoma,53b0574a249bc507a42e80,615,1
+1567,3,PBSC_unmodified,Leukemia,53d97e36f76cba33be5cd2,,1
+285,8,TCD,Non-Hodgkin's Lymphoma,5403de7ba3eac1a54822e4,320,1
+1337,3,BM_unmodified,Leukemia,5413311fc07b93d67a3f5d,,1
+943,9,TCD,Leukemia,542021af8537fc4c00507e,656,1
+753,8,TCD,Myelodysplastic Syndromes,543380a92ebb339e64a114,556,1
+798,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,54d29709220e61732efa59,587,1
+268,7,TCD,Myelodysplastic Syndromes,5511efd139dc1bc33c6100,304,1
+1101,6,PBSC_unmodified,Hodgkin's Disease,5526aaba7a5c802b48699b,97,1
+132,8,TCD,Leukemia,556b35fc470067b7a8a200,195,1
+751,8,TCD,Myelodysplastic Syndromes,55dd110dd199a8271cf331,147,1
+178,9,TCD,Myeloproliferative Disorder,567c452deb2a2fd64dbf06,239,1
+509,-3,TCD,Leukemia,5681677892693ed8957cc0,435,1
+977,416,PBSC_unmodified,Non-Hodgkin's Lymphoma,568d5919b9f0e23608e591,,1
+608,8,TCD,Multiple Myeloma,56dbe0b814a4f5a7ea1d57,154,1
+1125,-7,PBSC_unmodified,Leukemia,5731792c0c9695981fa6ed,215,1
+pt_with_samples_1044_1045_1046_1047,5,cord,Leukemia,577f3bec0f4b2895366128,201,1
+974,0,TCD,Leukemia,57927b098de9d8ba64adf2,669,1
+736,3,TCD,Leukemia,581d62c13e0d03e6c2824e,557,1
+1826,-4,PBSC_unmodified,Leukemia,58257ad367036c53641d4b,,0
+633,2,cord,Non-Hodgkin's Lymphoma,585fe250d9357db96f17e1,410,1
+924,-2,cord,Leukemia,588be6bf68d058e001d5e3,650,1
+596,-3,TCD,Leukemia,58bf74a2e9bcb5f6ca3d9e,485,1
+678,7,PBSC_unmodified,Hodgkin's Disease,59223d427d2bb39f80c3a7,464,1
+1339,3,PBSC_unmodified,Non-Hodgkin's Lymphoma,599913ac2fc6db4863ce90,,1
+1007,5,PBSC_unmodified,Leukemia,59a820c9214c46e85c51be,534,1
+926,5,TCD,Multiple Myeloma,59c9825a8fe4c94665753a,372,1
+2120,1,PBSC_unmodified,,59d121b7893e98c5bcdc2d,,0
+259,-22,cord,Hodgkin's Disease,5a1ce3452c16fcce0d5e83,199,1
+1106,-1,PBSC_unmodified,Non-Hodgkin's Lymphoma,5a6cb969d61658b429fcfa,,1
+224,8,TCD,Non-Malignant Hemat Disorders,5a8fe6a8423fe2076c6822,242,1
+224,135,TCD,Non-Malignant Hemat Disorders,5a8fe6a8423fe2076c6822,242,1
+449,1,PBSC_unmodified,Hodgkin's Disease,5ad94b2a5e20eb70533929,204,1
+FMT.0168,7,cord,Myelodysplastic Syndromes,5b42bf8bc086d009c6218f,778,1
+1583,2,TCD,Leukemia,5b4df7e3b8a41056daccae,,1
+1866,4,cord,Leukemia,5b5d93d837477ba7a92a50,,0
+2066,3,PBSC_unmodified,Leukemia,5b6053d277ef7273a825fb,,0
+240,7,TCD,Myelodysplastic Syndromes,5b79d6fff276ee613ff85e,306,1
+537,9,TCD,Leukemia,5c3a4b9b06a112a57145c8,448,1
+105,14,TCD,Leukemia,5c4638118adb941d44bfb9,,1
+412,5,PBSC_unmodified,Non-Hodgkin's Lymphoma,5caffde29d2b3456517880,225,1
+475,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,5ce2c19ecca3c1a0d1248f,109,1
+FMT.0030,8,TCD,Multiple Myeloma,5d052527e62335a86fcbf3,224,1
+FMT.0030,839,PBSC_unmodified,Multiple Myeloma,5d052527e62335a86fcbf3,224,1
+137,-110,TCD,Multiple Myeloma,5d20262cb6f1d6a5227d02,,1
+2111,2,BM_unmodified,,5e3fd7bfc304d864a2f121,,0
+1124,3,cord,Myelodysplastic Syndromes,5ebcd69565e0bd9d3fb7b1,91,1
+1270,-78,cord,Leukemia,5ec8063f0e7d0b9746de4f,,1
+1511,4,BM_unmodified,Non-Hodgkin's Lymphoma,5ed3b4d1fd82a354e6b9d0,,1
+FMT.0145,10,TCD,Leukemia,5edc0c0476e732d62a4977,,1
+801,2,PBSC_unmodified,Leukemia,5f242c5f813b0bdae665e0,601,1
+1776,5,TCD,Leukemia,5f29698d48fcc1e7915d1e,,0
+FMT.0034,28,TCD,Multiple Myeloma,5f951107df9536a898501c,C4,1
+pt_with_samples_1103_1104,0,PBSC_unmodified,Non-Hodgkin's Lymphoma,5fba5eb1c9194a547dea29,117,1
+994,1331,BM_unmodified,Multiple Myeloma,6049e3be92bfba11713bcc,,0
+200,6,cord,Non-Hodgkin's Lymphoma,6068947ac0a529413d7d76,85,1
+FMT.0006,7,BM_unmodified,Non-Hodgkin's Lymphoma,60901f287a2ff5e77bca70,,1
+476,10,TCD,Leukemia,60c326ed4a9824cf43d3b1,404,1
+1341,-32,BM_unmodified,Leukemia,60f16c653baee1527cd4ff,774,1
+491,-2873,PBSC_unmodified,Multiple Myeloma,6141c215455852f5b53318,55,0
+491,5,TCD,Multiple Myeloma,6141c215455852f5b53318,55,0
+274,6,cord,Leukemia,619f1fa47df4d0dcd2cfb2,221,1
+FMT.0017,4,BM_unmodified,Leukemia,61e3a931ca0188b382a796,654,1
+FMT.0017,308,PBSC_unmodified,Leukemia,61e3a931ca0188b382a796,654,1
+742,6,TCD,Myeloproliferative Disorder,61f494490393a838fa739e,108,1
+FMT.0232,24,cord,Leukemia,620846f35ee1efd0fa2bd6,,1
+471,-14,BM_unmodified,Myelodysplastic Syndromes,622dfc7b8981e6ccf288c6,313,1
+220,7,PBSC_unmodified,Hodgkin's Disease,623776f290cae6476599f0,231,1
+603,10,TCD,Myelodysplastic Syndromes,62a9dc7b123a62d98698d3,471,1
+662,7,TCD,Leukemia,62b8cd0da921d5aec1ff4a,13,1
+1786,9,TCD,Myelodysplastic Syndromes,631ae9c4bd16d555cfe7da,,0
+296,2,PBSC_unmodified,Non-Hodgkin's Lymphoma,631e0dccd2e3f38bd8ca99,170,1
+1316,-36,cord,Leukemia,6346456ad5edbde34b0b15,,1
+158,2,TCD,Non-Hodgkin's Lymphoma,634e4a2af7e5b20e5b9692,131,1
+1452,6,cord,Leukemia,636015deb7278b1f9a83a1,,1
+903,8,TCD,Multiple Myeloma,6407a0de68419469f2f4f9,576,1
+1622,0,cord,Leukemia,641f43b6587923f941dd3c,,0
+731,-4,PBSC_unmodified,Non-Hodgkin's Lymphoma,644a7bb18bfa31897eaec6,396,1
+pt_with_samples_1030_1031_1032_1033_1034_1035_1036,8,cord,Non-Malignant Hemat Disorders,647a951c8f0005ecdd4657,78,1
+752,7,TCD,Leukemia,64b4087289eafa9eaf57ae,577,1
+752,425,cord,Leukemia,64b4087289eafa9eaf57ae,577,1
+1953,4,PBSC_unmodified,Hodgkin's Disease,64c2cf418c5ba6114eb440,,0
+FMT.0231,11,TCD,Leukemia,64f37a2d32442e5d85d944,,1
+FMT.0244,6,PBSC_unmodified,Leukemia,64f565e338eb2431ac365f,,1
+1684,-11,PBSC_unmodified,Leukemia,655d4da3162cdbb82488f0,,0
+1564,7,PBSC_unmodified,Leukemia,6575bada9410d3c086657d,,1
+2057,1,PBSC_unmodified,Leukemia,65839bccf23735b9e9b72a,,0
+1846,3,cord,Leukemia,65934c40eca28e16860bb2,,0
+724,10,TCD,Leukemia,66daa587ce765ae0f5571b,9,1
+728,-3,PBSC_unmodified,Leukemia,672cd93857580164aa4b77,539,1
+422,9,TCD,Leukemia,67631139e3ab9ffc22a3b8,370,1
+FMT.0067,8,PBSC_unmodified,Non-Hodgkin's Lymphoma,6763379601e382aed5660b,,1
+1273,0,PBSC_unmodified,Leukemia,678b82df0e223bec47dbc4,,1
+1285,878,PBSC_unmodified,Multiple Myeloma,679e535dcd4db4a7a1427e,,0
+2126,8,PBSC_unmodified,,68829d446fa5473651729f,,0
+FMT.0010,6,cord,Leukemia,688524ef9180bc574f9a61,T2,1
+1015,3,PBSC_unmodified,Non-Hodgkin's Lymphoma,6907b65762365ffa98be58,636,1
+1320,3,PBSC_unmodified,Leukemia,6915baf26c798b32ad8c98,,1
+297,9,TCD,Leukemia,6927a6331ac337663ebe53,357,1
+297,380,PBSC_unmodified,,6927a6331ac337663ebe53,357,1
+297,490,PBSC_unmodified,Leukemia,6927a6331ac337663ebe53,357,1
+FMT.0139,10,TCD,Leukemia,696cea5815cbed245e7eeb,,1
+FMT.0204,15,TCD,Leukemia,697807b5e8eaa5aecdb01b,,1
+435,-1,TCD,Myelodysplastic Syndromes,69cbd564bd361c1fb73222,318,1
+482,9,TCD,Leukemia,69e9e282ce49ec5400f653,392,1
+669,6,cord,Leukemia,6a027ff4388633f0be9682,385,1
+FMT.0134,17,TCD,Multiple Myeloma,6a56511c66100e3206f1aa,,1
+1094,-194,PBSC_unmodified,Leukemia,6a81bf96e3aff46980a0e4,,1
+987,3,TCD,Leukemia,6a914b033932df19dde8b3,682,1
+917,6,TCD,Leukemia,6af667d68c2875f2815626,660,1
+1513,7,TCD,Multiple Myeloma,6b1c4fbd2a8a777dd27db7,,0
+pt_with_samples_1050_1051_1052_1053_1054_1055_1123,7,cord,Non-Hodgkin's Lymphoma,6b2a6198cfe3980b13a40b,61,1
+1117,-19,cord,Leukemia,6b4f34624fa73e93275f83,714,1
+206,9,TCD,Multiple Myeloma,6ba9cf3b9239438076db3e,71,1
+136,10,TCD,Leukemia,6c5668d88af5ff65c243af,106,1
+676,10,TCD,Myeloproliferative Disorder,6c8d6db3769ef88371964f,52,1
+1105,4,PBSC_unmodified,Non-Hodgkin's Lymphoma,6c96523eea5938e1404e62,551,1
+463,8,TCD,Myeloproliferative Disorder,6cb0e31a6ceec7459b0a78,388,1
+618,3,cord,Non-Hodgkin's Lymphoma,6cbe65682f23dd101ac789,535,1
+887,7,TCD,Myelodysplastic Syndromes,6cc0c278abf1f04b2d508b,635,1
+1796,1,PBSC_unmodified,Hodgkin's Disease,6ce58ec714f262501dd310,,0
+632,2,PBSC_unmodified,Myeloproliferative Disorder,6cf11b6856c563332a6a66,496,1
+698,6,TCD,Multiple Myeloma,6d3b95f29974bec975cff2,460,1
+698,1712,TCD,Multiple Myeloma,6d3b95f29974bec975cff2,460,1
+816,5,PBSC_unmodified,Hodgkin's Disease,6d3e8b86996a928898cf03,488,1
+1002,34,TCD,Leukemia,6d6f45d2e607fcd8a455b0,691,1
+1690,6,PBSC_unmodified,Leukemia,6d72f1ec69278085bc6999,,0
+1845,4,TCD,Myelodysplastic Syndromes,6e224d6979c4c4ab869dfd,,0
+1222,5,BM_unmodified,Non-Hodgkin's Lymphoma,6e23552cdee82596844c2c,,1
+FMT.0242,6,PBSC_unmodified,Leukemia,6eb9df295af8b4c883a08d,,1
+1528,5,PBSC_unmodified,Leukemia,6ec39bd29017e52b232ca0,,1
+FMT.0208,12,BM_unmodified,Leukemia,6ee0dd85e063131e77bb33,,1
+FMT.0072,16,TCD,Leukemia,6ee0fc511027700d9bba92,,1
+905,5,cord,Leukemia,6eeb6bd19dba5d65981a00,521,1
+1705,1,BM_unmodified,Myelodysplastic Syndromes,6f02efe9c1b5bae36acdcc,,0
+474,10,TCD,Leukemia,6f31b2fad5990e6f2fdefb,405,1
+1856,-4,TCD,Myelodysplastic Syndromes,6f32f5f1ba74eda0e6de15,,0
+836,-1,PBSC_unmodified,Non-Hodgkin's Lymphoma,6f3df2c91f50b16a78949e,503,1
+892,2,cord,Non-Hodgkin's Lymphoma,6f4904474ae52a6c21eee6,51,1
+222,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,6f72785a3ab4689867c78d,68,1
+1909,3,BM_unmodified,Multiple Myeloma,6fafe8f9dbd494a8801289,,0
+FMT.0092,9,PBSC_unmodified,Leukemia,6fd7955698a9bde254481d,T11,1
+492,16,TCD,Leukemia,70040ad69fc238a16a0035,433,1
+1008,8,TCD,Multiple Myeloma,7069ef4770ee131ce832f3,684,1
+FMT.0249,0,TCD,Leukemia,717afcc7fdcc8bfedc6668,,0
+FMT.0160,16,TCD,Leukemia,71bf18f3080f840f66f5b3,,1
+615,9,TCD,Leukemia,71c9c0e1b7f2ab9611a9ab,93,1
+FMT.0182,17,TCD,Myelodysplastic Syndromes,71d266646e47f1b0db2745,,1
+FMT.0214,24,TCD,Multiple Myeloma,71d8e28b77b6d147defe3f,,1
+769,1,TCD,Myeloproliferative Disorder,71e9ada8189bc696a8c641,600,1
+FMT.0098,9,cord,Leukemia,723815e2006e133314a593,,1
+FMT.0098,665,cord,Leukemia,723815e2006e133314a593,,1
+1777,-4,PBSC_unmodified,Non-Hodgkin's Lymphoma,724c859cafc47de8f0ed17,,0
+955,5,PBSC_unmodified,Leukemia,72b3c3970c16c4adfbbb80,604,1
+pt_with_samples_1933_1993,8,TCD,Leukemia,72f9552bb5050162b12b1b,,0
+182,4,TCD,Leukemia,732e5fab73e647b1c51bed,260,1
+1010,3,PBSC_unmodified,Leukemia,734b5113f52574553c1707,690,1
+215,-5,PBSC_unmodified,Non-Hodgkin's Lymphoma,73566e734169b57b69c548,14,1
+1249,8,TCD,Leukemia,739ff0ec46f9fa1f5b33ab,746,1
+FMT.0078,140,PBSC_unmodified,Non-Hodgkin's Lymphoma,741bc316be4d56f6a66454,,1
+164,3,BM_unmodified,Leukemia,742c78241f87013764fae5,249,1
+503,2,cord,Leukemia,7452379924142e2e5947d4,443,1
+1032,2,PBSC_unmodified,Leukemia,74ead7cabf286a9d1a9695,411,1
+477,1,TCD,Leukemia,7521c93ead5ddce06e6b06,397,1
+FMT.0104,13,TCD,Leukemia,75a075f2b7e8fb6e8977fe,,1
+832,4,PBSC_unmodified,Leukemia,75a59fb47b0c07fb07ed18,137,1
+2077,-7,TCD,Leukemia,75c7b570e0a20b7a371b81,,0
+FMT.0196,7,cord,Leukemia,7646b301b8b77aab87e5d5,,1
+407,2,cord,Non-Hodgkin's Lymphoma,76b657dc96745f9bdc3056,128,1
+238,9,PBSC_unmodified,Leukemia,76d7347de07521c5715797,212,1
+438,-4,cord,Myelodysplastic Syndromes,76eb1794d7179fc6f9b2e4,58,1
+1824,3,cord,Leukemia,774274268060692ae85e25,,0
+860,4,PBSC_unmodified,Leukemia,777226b73ec592c5608e55,616,1
+1352,-10,PBSC_unmodified,Leukemia,77a689fb85d64ed63b8ed4,,1
+FMT.0207,27,TCD,Leukemia,77a939ef53c23d2756c1b6,,1
+452,8,TCD,Leukemia,77c187148f962243b7ce6a,389,1
+1096,-8,PBSC_unmodified,Non-Hodgkin's Lymphoma,77db09d038c6d8f06dd705,,1
+466,7,PBSC_unmodified,Non-Hodgkin's Lymphoma,77dcef2bbdb154c4c627cf,401,1
+1461,5,cord,Leukemia,781db535d2bd2517b8d550,,1
+1766,6,PBSC_unmodified,Leukemia,785d3fb132ff357fe637e7,,0
+FMT.0044,10,TCD,Myelodysplastic Syndromes,785ed3de896aba93a68777,,1
+1070,-563,TCD,Leukemia,789b5ea2c429d103b54207,,1
+1070,102,PBSC_unmodified,Leukemia,789b5ea2c429d103b54207,,1
+920,5,TCD,Multiple Myeloma,78e693ca15d61e3f6f81a3,631,1
+FMT.0162,23,PBSC_unmodified,Myelodysplastic Syndromes,79223cc9f81f402013249e,,1
+1837,1,TCD,Leukemia,792b72e468717285ad7eb6,,0
+FMT.0068,10,cord,Non-Hodgkin's Lymphoma,7941e4cae71c4b58c59331,,1
+1908,1,PBSC_unmodified,Leukemia,7983f47077c788b8d55c3a,,0
+295,8,PBSC_unmodified,Leukemia,7992cd300041a48de7df6a,354,1
+165,-452,TCD,Leukemia,7a063863ffcd089ca72616,,1
+FMT.0141,5,PBSC_unmodified,Non-Hodgkin's Lymphoma,7a5349b76df2ce4e8bcfe2,,1
+1366,6,PBSC_unmodified,Leukemia,7a7e6f063a3cee8d4b38c7,,1
+FMT.0222,9,PBSC_unmodified,Non-Hodgkin's Lymphoma,7abb0818ee2bf20d33eee7,,1
+126,-34,PBSC_unmodified,Leukemia,7acfdbb2753b14c1bb6b5a,222,1
+1221,6,BM_unmodified,Leukemia,7aff3de4f710e8057e2698,729,1
+959,-1557,TCD,Leukemia,7b3c7bbceaf231d8a03678,211,0
+959,-5,PBSC_unmodified,Leukemia,7b3c7bbceaf231d8a03678,211,0
+213,-237,TCD,Leukemia,7ba07dd7a1165af4bb235f,,1
+130,3,TCD,Multiple Myeloma,7ba9cee3b96222791ea23c,253,1
+770,4,cord,Leukemia,7bc3fc8aa51eacc1b2bf47,574,1
+FMT.0005,16,TCD,Leukemia,7c17f4d6a42dde7185606c,,1
+574,2,TCD,Leukemia,7c9465234d7c2c33b37132,474,1
+1393,8,BM_unmodified,Aplastic Anemia,7ca2a4bf666200e787770c,,1
+FMT.0243,6,PBSC_unmodified,Myeloproliferative Disorder,7d1ebbc2a93151760f243e,,1
+788,-3,BM_unmodified,Leukemia,7d5779192c07eb45343559,379,1
+556,-7,cord,Non-Hodgkin's Lymphoma,7d5b54fb7d5b18eb891653,178,1
+512,6,PBSC_unmodified,Leukemia,7dd6ad34a3f8cb34c83ce8,223,1
+841,2,PBSC_unmodified,Non-Hodgkin's Lymphoma,7de947fa7e1aaad5cf5910,406,1
+873,9,TCD,Multiple Myeloma,7defd39b698f8e579e56d4,416,1
+1203,-2205,TCD,Myelodysplastic Syndromes,7e77acf7897d37ba98bfcb,,1
+1203,18,cord,Myelodysplastic Syndromes,7e77acf7897d37ba98bfcb,,1
+1645,2,BM_unmodified,Myelodysplastic Syndromes,7e7a8ee1cec8847f8c1aa5,,1
+720,1,TCD,Myelodysplastic Syndromes,7e97881d5d01856bdaad30,546,1
+933,-17,cord,Leukemia,7ee3afeddc666009d93b29,637,1
+1107,5,PBSC_unmodified,Leukemia,7f5985c7704a9622214cad,725,1
+1885,0,TCD,Leukemia,7fa13fb8c0510925463a5c,,0
+192,3,cord,Leukemia,80407f9ad1f8cc1f9dd2a0,254,1
+730,4,TCD,Multiple Myeloma,80486a19e07d98d3d2b9fb,497,1
+458,5,PBSC_unmodified,Leukemia,809391d113d5bf71141ae5,334,1
+FMT.0097,12,TCD,Leukemia,809a6a9627784e56b5f953,,1
+FMT.0097,368,BM_unmodified,,809a6a9627784e56b5f953,,1
+906,4,cord,Myelodysplastic Syndromes,80bafdc80969d20b175b97,571,1
+1491,4,cord,Leukemia,811543a08e04700b8ce264,,0
+1569,8,BM_unmodified,Non-Malignant Hemat Disorders,812c95c092aed9c8cf6a52,,1
+FMT.0219,10,TCD,Myeloproliferative Disorder,814378a8b905a036e3c5d4,,1
+833,-11,TCD,Multiple Myeloma,8146b0fa27e1cb8759a614,398,1
+498,969,TCD,Multiple Myeloma,816f8b8b0f7a6c45431e0b,424,1
+1713,9,TCD,Leukemia,81b792039d15cbd1c3569b,,0
+738,8,TCD,Myelodysplastic Syndromes,81c9394244bd8e323b0835,295,1
+2151,-1,PBSC_unmodified,,82005c8ff387df270a09e3,,0
+114,8,TCD,Multiple Myeloma,8235cfcdeed401bd74b3ba,77,1
+483,9,PBSC_unmodified,Myelodysplastic Syndromes,82689c1473e3c2051e36ae,417,1
+1329,3,PBSC_unmodified,Myelodysplastic Syndromes,826b069534134fecb6036b,,1
+128,-5,TCD,Multiple Myeloma,82e627cb778d4df73392d5,102,1
+908,-1,cord,Leukemia,82eb9ed5af7f5305dc4a0c,664,1
+1987,3,cord,Leukemia,833bd600fc6bd568ad000a,,0
+197,5,cord,Non-Hodgkin's Lymphoma,83621fda12b1668c68bdd6,,1
+423,-3,PBSC_unmodified,Leukemia,83798bc885c9b2b352ce1e,352,1
+1351,892,BM_unmodified,,837be98c00092e24c768e0,,0
+279,-11,TCD,Myelodysplastic Syndromes,83dabf94f234cc19e70762,256,1
+578,-18,cord,Non-Hodgkin's Lymphoma,83e2d4264a07e6c34f1f35,34,1
+522,2,PBSC_unmodified,Non-Hodgkin's Lymphoma,846e6d0f6d536cd8beef51,362,1
+FMT.0043,946,BM_unmodified,Non-Hodgkin's Lymphoma,84c65590f5f94d1e4afee4,,1
+984,-2,PBSC_unmodified,Leukemia,84ffb979a623f0dd24ea3f,623,1
+120,3,TCD,Myeloproliferative Disorder,8509756313caec9dfc8e97,167,1
+710,42,TCD,Myeloproliferative Disorder,8519493331f1ce5744fe59,493,1
+FMT.0106,15,PBSC_unmodified,Non-Hodgkin's Lymphoma,852d3a14316666c0bacfbb,T13,0
+1789,6,PBSC_unmodified,Leukemia,8531a283bc1d7346ad4ba1,,0
+513,6,PBSC_unmodified,Leukemia,853bfb79bb2e956c818f9c,418,1
+838,9,TCD,Leukemia,8545bb419ffc8bc8c5c7d4,613,1
+1657,3,PBSC_unmodified,Non-Hodgkin's Lymphoma,854689d1e9a45e8d55ec55,,0
+1201,123,PBSC_unmodified,Leukemia,855f0ab373e7311b4e9d4f,767,1
+1143,30,cord,Myelodysplastic Syndromes,85c6b894edb17153189265,26,1
+623,5,TCD,Leukemia,85dbb79ff35c2f7cc44d39,500,1
+457,-2,PBSC_unmodified,Non-Hodgkin's Lymphoma,861f8d0b56a8c5b20c08ef,209,1
+925,-1,TCD,Leukemia,8681eda329c0289683009c,663,1
+2131,-7,cord,,8686f8ff23f1119518b699,,0
+704,9,TCD,Multiple Myeloma,86c62874b5670db0d3e051,548,1
+124,-93,PBSC_unmodified,Non-Hodgkin's Lymphoma,86f47776ac64cb54953bf0,112,1
+1390,119,BM_unmodified,Leukemia,86f5c1b1606e937c286695,,1
+FMT.0229,22,BM_unmodified,Aplastic Anemia,87361dc7b53bb65f569e51,,1
+287,-1,PBSC_unmodified,Non-Hodgkin's Lymphoma,8762035f6a53fa83b547e8,183,1
+726,9,BM_unmodified,Leukemia,87cce83356765a5017d109,15,1
+858,10,TCD,Myelodysplastic Syndromes,881168f09ceaabc7d9f3f9,303,1
+634,5,PBSC_unmodified,Leukemia,889445ff6882bf07f34ab8,542,1
+1406,8,TCD,Leukemia,8896c73e545046793fc111,,1
+790,-3,TCD,Leukemia,88f7a556036609472d6e5c,579,1
+1700,4,PBSC_unmodified,Myelodysplastic Syndromes,8923ca4bdf2fefd435322f,,0
+2025,55,PBSC_unmodified,Leukemia,8929b8bc115eb87813830e,,0
+648,2,TCD,Leukemia,893cc39729893ff3192722,505,1
+1456,583,PBSC_unmodified,Non-Hodgkin's Lymphoma,894e87be77763d5c4b8351,,0
+FMT.0245,28,cord,Leukemia,8967f73958c863550cfc3e,,1
+957,5,cord,Leukemia,89a8821ca25a11f8f606d2,632,1
+953,0,cord,Leukemia,89b935fe52371e9633f515,649,1
+1364,5,BM_unmodified,Leukemia,8a25110c831e982ce15747,763,1
+995,10,TCD,Leukemia,8a2ba6e2dfc33d0e99ef08,693,1
+630,-5,TCD,Myelodysplastic Syndromes,8a3388998aea665eca2cf2,308,1
+299,2,TCD,Leukemia,8a5beb2619c388b11fb16c,360,1
+FMT.0250,16,BM_unmodified,Myelodysplastic Syndromes,8a6abaffc11bf51c265600,,0
+1136,6,PBSC_unmodified,Leukemia,8abfccade4991e7d4e683a,711,1
+532,9,TCD,Myelodysplastic Syndromes,8ac88d7f269f25fa1fcd8d,119,1
+FMT.0064,10,TCD,Multiple Myeloma,8ae11671e89fe36ab08a7b,T6,1
+528,1,cord,Leukemia,8af7893240f7b05a7cec67,268,1
+FMT.0033,14,TCD,Leukemia,8b13112c6ac5e832836b57,,1
+FMT.0033,734,TCD,Leukemia,8b13112c6ac5e832836b57,,1
+FMT.0048,8,PBSC_unmodified,Non-Hodgkin's Lymphoma,8b2ff314447798556f0482,,1
+1553,2,PBSC_unmodified,Myelodysplastic Syndromes,8b407686349a80041bd4ab,,1
+FMT.0089,24,TCD,Myelodysplastic Syndromes,8b54a045c87ce289d7e783,,1
+1116,5,cord,Leukemia,8b69da0fc723e82b1d7a27,716,1
+FMT.0146,7,PBSC_unmodified,Non-Hodgkin's Lymphoma,8b736b2e399a6f72cc47eb,274,1
+941,7,TCD,Myelodysplastic Syndromes,8b90bb2843183d2efcde0c,38,1
+FMT.0127,11,TCD,Myelodysplastic Syndromes,8bd10e1815b554b7e59541,,1
+1876,-5,PBSC_unmodified,Leukemia,8c23db712b01e92e5a0b70,,0
+2090,3,BM_unmodified,Myelodysplastic Syndromes,8c2f8ac3d490d072009c91,,0
+226,9,PBSC_unmodified,Leukemia,8c60ac00b2a58333844a2e,297,1
+530,6,TCD,Leukemia,8c6d7d8826a2b8b1c31ade,436,1
+508,-4,TCD,Leukemia,8c94fd3a302cfe56d3fe87,451,1
+432,3,TCD,Myelodysplastic Syndromes,8c98eaf8652994c4427629,213,1
+FMT.0159,10,TCD,Leukemia,8ceaa6900c5287a3d21660,,1
+290,8,TCD,Multiple Myeloma,8d383d5c037ab8934fca91,292,1
+101,20,TCD,Multiple Myeloma,8d3e8f53554499dbdafc16,105,1
+FMT.0177,30,TCD,Multiple Myeloma,8d8fb389ccd82755f79698,,1
+201,52,PBSC_unmodified,Leukemia,8d92107aad67796975f551,207,1
+1428,17,TCD,Leukemia,8dc3170c78f80dd01a3895,,1
+1839,-2,PBSC_unmodified,Non-Hodgkin's Lymphoma,8dd2eb7ed61ed70f90dbc0,,0
+209,5,PBSC_unmodified,Non-Hodgkin's Lymphoma,8e16d6e3d0f68465f36688,141,1
+939,0,PBSC_unmodified,Leukemia,8e3c69d859c28a27d7a36f,674,1
+265,8,TCD,Leukemia,8e6945bd58f0a4af8a8bd8,148,1
+1151,-1,PBSC_unmodified,Myelodysplastic Syndromes,8e712756c1549d1bc3264b,739,1
+1628,-9,PBSC_unmodified,Leukemia,8f06917be9571f51156e3d,,0
+214,-2606,BM_unmodified,Leukemia,8f0f154dc60fbb70ac72be,59,0
+214,-1863,PBSC_unmodified,Leukemia,8f0f154dc60fbb70ac72be,59,0
+214,5,PBSC_unmodified,Leukemia,8f0f154dc60fbb70ac72be,59,0
+811,9,TCD,Leukemia,8f1b126c0d89dba62867ce,395,1
+829,2,PBSC_unmodified,Non-Hodgkin's Lymphoma,8f8bab14a2e41784a458d9,538,1
+166,24,PBSC_unmodified,Non-Hodgkin's Lymphoma,8f9af80346378d27d617cf,63,1
+899,5,cord,Leukemia,8fc58809e777d1ff8ad319,,1
+899,441,cord,Leukemia,8fc58809e777d1ff8ad319,,1
+461,10,TCD,Leukemia,900af2a78395242a486551,364,1
+1326,5,BM_unmodified,Leukemia,902cf0888b4857d5ad703f,,1
+pt_with_samples_2004_699,105,TCD,Leukemia,9033c7cd70cd7d396cba9b,234,1
+1896,4,PBSC_unmodified,Leukemia,90384afd52a57db49f455b,,0
+523,-2,cord,Hodgkin's Disease,90d59436cb43aee264ce22,103,1
+246,5,PBSC_unmodified,Non-Hodgkin's Lymphoma,90d9b130ae8365b8359ce0,173,1
+FMT.0111,9,TCD,Leukemia,90dd721182743d0a7aa9a9,C9,1
+198,9,TCD,Multiple Myeloma,9117a008f2f307c9cf9459,79,1
+890,5,PBSC_unmodified,Non-Hodgkin's Lymphoma,914fd9173a9bd7f2e41535,573,1
+FMT.0132,70,TCD,Myelodysplastic Syndromes,915f9fabf22a3113936757,,1
+1154,1,cord,Leukemia,9177245ba3a9bab1a6fc4c,752,1
+1986,3,PBSC_unmodified,Leukemia,917f9f387fe40ee82e0145,,0
+204,5,PBSC_unmodified,Non-Hodgkin's Lymphoma,91923bf05ff7eef11d162f,70,1
+1233,2,PBSC_unmodified,Non-Hodgkin's Lymphoma,91ab664636a9d71093b7a4,,1
+286,2,PBSC_unmodified,Leukemia,91e2e83dc15a85c0062c5e,198,1
+1380,8,TCD,Leukemia,91e8d88e6fd88cbce88f09,,1
+pt_with_samples_2018_796,107,TCD,Leukemia,9218d8ce8b558a176a12e4,589,1
+734,6,TCD,Leukemia,92837ff4a34231ed9489a5,22,1
+441,2,PBSC_unmodified,Leukemia,929c6d05a4e84753a2cd13,363,1
+1630,2,PBSC_unmodified,Leukemia,92a5c867485f0f457cb6cb,,1
+849,-5,TCD,Myelodysplastic Syndromes,92ac5ced99581e4ab5b686,603,1
+FMT.0131,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,92be05e424153be4d951dc,,1
+FMT.0027,7,cord,Non-Hodgkin's Lymphoma,92be77e8602e5c782f9f7c,,1
+FMT.0059,63,cord,Leukemia,92c1d6cbc5b53878122f48,,1
+918,-4,PBSC_unmodified,Leukemia,92ec3f08ae2b17c735baef,186,1
+524,3,PBSC_unmodified,Leukemia,92f15e5233d1916e9aa871,445,1
+460,1,cord,Leukemia,92f33f547b7dbe096b3ce9,345,1
+1419,-48,PBSC_unmodified,Non-Hodgkin's Lymphoma,933c5e3ce23f4663b87ed8,,1
+764,1,cord,Non-Hodgkin's Lymphoma,934c007e8cadb880175933,122,1
+2149,6,cord,,934fe1acdae174b049486e,,0
+1009,5,PBSC_unmodified,Leukemia,935f743643de70772034de,685,1
+2104,1,PBSC_unmodified,Leukemia,939c2e7047521877160905,,0
+972,1172,PBSC_unmodified,Myelodysplastic Syndromes,93a7002b8d9f93d3bf59a1,,0
+754,2,TCD,Multiple Myeloma,93a7cbe6e365801b2f359f,575,1
+844,-2084,TCD,Myelodysplastic Syndromes,93bc22335adae39d23dd33,129,0
+844,8,TCD,Myelodysplastic Syndromes,93bc22335adae39d23dd33,129,0
+FMT.0074,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,93d63e3d29804d9ec6c6ef,,1
+552,8,TCD,Multiple Myeloma,94038b5b8a4094c925a745,469,1
+1539,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,940ab59b2138d714c47a99,,1
+pt_with_samples_1059_1060_1061_1062_1063_1064,1,cord,Non-Hodgkin's Lymphoma,943b1a4473e9a1056fe5d7,165,0
+191,5,cord,Leukemia,94546d0037708ea519d775,16,1
+440,1,TCD,Myelodysplastic Syndromes,94895899f2c53579299258,10,1
+FMT.0022,10,cord,Non-Malignant Hemat Disorders,94b7601d33660a593135b6,,1
+1901,9,TCD,Leukemia,94df67f2fb5a1546cd9d77,,0
+546,2,cord,Non-Hodgkin's Lymphoma,94f2d1ede5134df8e8c482,4,1
+FMT.0140,294,TCD,Leukemia,95166d14a833d4341d74ae,,1
+762,3,TCD,Leukemia,959150ebac091e45545f7a,580,1
+484,9,TCD,Leukemia,95cf5cbc5036fbc203c3c0,427,1
+694,7,TCD,Multiple Myeloma,95cfa14ea6bf022cd8bafa,428,1
+1801,-3,TCD,Myelodysplastic Syndromes,95d2e8f5fcac7f4592290c,,0
+FMT.0018,6,PBSC_unmodified,Leukemia,95d54049b7c65ce7a2e221,,1
+585,2,PBSC_unmodified,Hodgkin's Disease,96a51cdf5d223ecf876530,457,1
+828,3,cord,Non-Hodgkin's Lymphoma,96ee6dd9fa512791b9b4f5,602,1
+516,9,TCD,Myelodysplastic Syndromes,976b74c62bb767f7b7f274,359,1
+675,-11,TCD,Leukemia,97af0e71545e2cb863c681,420,1
+1210,6,BM_unmodified,Non-Hodgkin's Lymphoma,97ff7c9bcbfed63cb99602,145,1
+621,9,TCD,Leukemia,985481932644e877ea047c,510,1
+410,6,cord,Non-Hodgkin's Lymphoma,9856fbde7c3e4d0158a93f,373,1
+413,9,TCD,Leukemia,9893bb814282260d5517f1,346,1
+961,9,TCD,Myelodysplastic Syndromes,98a61f085e33cbd64d1dc5,662,1
+FMT.0167,5,BM_unmodified,Leukemia,98b48ad9357704990efd66,,1
+FMT.0167,535,PBSC_unmodified,Leukemia,98b48ad9357704990efd66,,1
+203,5,cord,Leukemia,98bd2a703a0ab3dfea4c47,284,1
+597,4,PBSC_unmodified,Myelodysplastic Syndromes,98ce277693fafcaf6638aa,285,1
+1818,10,TCD,Myeloproliferative Disorder,9a1cff6e08efea74050396,,0
+566,-3,PBSC_unmodified,Myeloproliferative Disorder,9a381ef436ddbab010195b,466,1
+1250,0,BM_unmodified,Non-Malignant Hemat Disorders,9a4e6940caad3c9f875239,740,1
+496,8,PBSC_unmodified,Leukemia,9a5b19071ef4d45b99f876,393,1
+421,7,PBSC_unmodified,Leukemia,9a78f7cae92a61d330f54d,299,1
+1197,4,BM_unmodified,Leukemia,9a95480cbe96ce57d2eb3d,,1
+1279,-2,PBSC_unmodified,Non-Hodgkin's Lymphoma,9a99f73f2141b3f18160e7,,1
+719,5,PBSC_unmodified,Leukemia,9ab4cbfdcf60cbe25d0900,502,1
+1016,-3,TCD,Leukemia,9abcd635e2963abdeaf654,701,1
+167,9,TCD,Leukemia,9ae0553f25c3998fabad18,47,1
+930,8,TCD,Multiple Myeloma,9aef9dae8a446eacf1ed0b,74,1
+2105,355,PBSC_unmodified,,9b132684087672908effb9,,0
+1711,3,PBSC_unmodified,Myelodysplastic Syndromes,9b93aa7135378c00243acf,,0
+757,-1980,TCD,Multiple Myeloma,9c0b0989fb38cfdca88908,100,0
+757,9,TCD,Multiple Myeloma,9c0b0989fb38cfdca88908,100,0
+1038,3,PBSC_unmodified,Leukemia,9c26bff3cba9264c5770da,,0
+270,1,TCD,Myelodysplastic Syndromes,9c95baf6612bcef699d983,279,1
+1443,8,TCD,Leukemia,9cbe8bf31dec8288983fb1,,1
+1844,13,TCD,Leukemia,9cc3cf4619b4b6182678ec,,0
+1734,3,cord,Leukemia,9d3dc44674fe5ddc51d508,,0
+1669,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,9da24c9ea69190d3d2c42e,,0
+FMT.0190,6,PBSC_unmodified,Leukemia,9dc94d6a50abe83ffbe167,,1
+744,9,TCD,Leukemia,9df1ba1c0643919a34f123,568,1
+599,2,PBSC_unmodified,Non-Hodgkin's Lymphoma,9e08248bd2674ed94d7e40,157,1
+pt_with_samples_2003_759,247,PBSC_unmodified,Leukemia,9e0a047aec2c41fbe0b7c1,547,1
+911,6,cord,Leukemia,9e152e0fadf83d2bfe93b3,652,1
+507,16,cord,Leukemia,9e50380af155c3fb373ff5,,1
+780,0,PBSC_unmodified,Leukemia,9e644d2d69ca67ad859a4e,594,1
+2119,4,PBSC_unmodified,,9e7321d43c36b08fdbdf93,,0
+1531,2,TCD,Leukemia,9e77a65eedd436e110d256,,1
+847,4,PBSC_unmodified,Leukemia,9ea6db02dee6321b70cfcb,12,1
+2147,3,cord,,9ed384ff65d36c185adc5e,,0
+439,8,PBSC_unmodified,Leukemia,9f06c3c163e7a4a6c7ed28,390,1
+FMT.0135,-2246,TCD,Multiple Myeloma,9f22c59338349574d5111f,,0
+FMT.0135,-5,TCD,Multiple Myeloma,9f22c59338349574d5111f,,0
+481,3,TCD,Leukemia,9f7c713f6b58327984a1f7,413,1
+FMT.0191,21,BM_unmodified,Myelodysplastic Syndromes,9fb0c9ff3579a4db2e5f2e,,1
+1338,5,TCD,Leukemia,9fed691e0c8591854eabdb,,1
+1338,209,PBSC_unmodified,,9fed691e0c8591854eabdb,,1
+1581,-3,TCD,Leukemia,a015391bd9d8ceb0b0e47f,,0
+415,3,cord,Leukemia,a03738c62407f1503d0859,382,1
+695,6,TCD,Leukemia,a0bc153a9471646c21d8e6,355,1
+1294,-4,TCD,Myeloproliferative Disorder,a0cf89fc87a862b55a842b,619,1
+789,-9,BM_unmodified,Myelodysplastic Syndromes,a102d79e52a731de49f680,533,1
+889,-4,BM_unmodified,Leukemia,a108f3504bdb8e73f75af3,646,1
+186,1,PBSC_unmodified,Non-Hodgkin's Lymphoma,a1099e9b81037507e8c016,255,1
+896,5,cord,Non-Hodgkin's Lymphoma,a13d11f37be6ac5d5f2eb9,525,1
+pt_with_samples_1086_1087_1088_1089_1090_1091_1092_1093,0,cord,Non-Hodgkin's Lymphoma,a1585ecba55fe6894d26db,81,1
+868,172,TCD,Multiple Myeloma,a173c086f55d348d15e9ed,18,1
+594,-4,PBSC_unmodified,Non-Hodgkin's Lymphoma,a19d4ddaf71e789a122ad8,479,1
+1823,2,BM_unmodified,Leukemia,a1c1eab079279fe8575c75,,0
+FMT.0185,66,BM_unmodified,Myeloproliferative Disorder,a22a8351a4f4aa8fa1eccb,,1
+151,-167,cord,Hodgkin's Disease,a2b2210cbd7f6672b3c329,,1
+1156,0,TCD,Multiple Myeloma,a31678e5b4dbcfed3b5433,,1
+923,8,TCD,Leukemia,a32280c7e28a61b98bcee8,673,1
+674,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,a33e55fb9388cb058f44aa,203,1
+FMT.0173,108,TCD,Multiple Myeloma,a38a19063534f7018afddb,,1
+218,9,TCD,Leukemia,a390e649d2cb814cf73c23,281,1
+218,1245,PBSC_unmodified,Leukemia,a390e649d2cb814cf73c23,281,1
+2081,2,cord,Leukemia,a39ffefa0fa44efb21f7e0,,0
+251,-5,PBSC_unmodified,Leukemia,a3b5b62892bac845473675,312,1
+1158,75,cord,Leukemia,a3c2ab3e5102cdad6b44d9,756,1
+531,6,cord,Leukemia,a436fadea0598886ec5010,437,1
+601,2,TCD,Multiple Myeloma,a454a2d8b933057aa03238,387,1
+FMT.0194,19,BM_unmodified,Leukemia,a4af57c5da6a08920f2775,,1
+pt_with_samples_1025_1026_1027_1028_1029,0,cord,Leukemia,a4d5a2fa2376c303f282fb,196,1
+173,5,PBSC_unmodified,Myelodysplastic Syndromes,a534b45e73b9332fe1c2a5,174,1
+563,2,PBSC_unmodified,Leukemia,a5ed94b395e0acb830a5a8,,1
+563,930,PBSC_unmodified,Leukemia,a5ed94b395e0acb830a5a8,,1
+FMT.0090,43,BM_unmodified,Leukemia,a5ef7977287f66548a7f44,,1
+1660,22,PBSC_unmodified,Leukemia,a5f94face17321de8cb7de,,0
+103,13,TCD,Leukemia,a6a77bde4e7dd8e2f89ac4,232,1
+1695,-5,BM_unmodified,Hodgkin's Disease,a6a9ea740920f4cb7e3179,,0
+230,10,TCD,Myelodysplastic Syndromes,a6f57483194b65c388e8ca,266,1
+FMT.0184,5,PBSC_unmodified,Leukemia,a73ff42b25ed31a0f0abe1,489,1
+1110,7,TCD,Non-Malignant Hemat Disorders,a79bffe2eca6ae66fb619a,718,1
+915,-11,cord,Aplastic Anemia,a7adc621a01de127ce3245,655,1
+1276,6,PBSC_unmodified,Leukemia,a7f1d21a47639d96354460,,1
+1193,9,TCD,Leukemia,a818a99df90a3d23ec2752,146,1
+1112,-4,cord,Non-Hodgkin's Lymphoma,a84b8e7e81080dbd6549e8,,1
+1161,556,BM_unmodified,Non-Hodgkin's Lymphoma,a86a28c772b8f4f17c1e4e,,1
+647,1,PBSC_unmodified,Leukemia,a8a54a2b7d42cfa76d925c,543,1
+281,1,cord,Leukemia,a8d599228abe6504c66b08,330,1
+555,9,TCD,Multiple Myeloma,a8e9c4c40f845aa77c2ff9,33,1
+907,6,PBSC_unmodified,Leukemia,a8f5f6a6dbdd5f2b5dfed3,634,1
+1928,3,PBSC_unmodified,Leukemia,a920fe9ca2510447c02156,,0
+266,3,cord,Non-Hodgkin's Lymphoma,a947d6176a66582d4ced44,17,1
+FMT.0224,55,TCD,Myeloproliferative Disorder,a97d8d87ddebfdcdd396fe,,1
+FMT.0091,7,BM_unmodified,Myelodysplastic Syndromes,a9ccb3575b661fc75b1e51,T12,1
+pt_with_samples_1065_1066_1067_1068_1069,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,aa2ec2948075700a641fd4,21,1
+640,458,BM_unmodified,Non-Hodgkin's Lymphoma,aa3c6a51d21f92e46dc421,126,1
+1372,3,PBSC_unmodified,Myelodysplastic Syndromes,aa778346c1ef8dc2ea5d93,,1
+1024,5,PBSC_unmodified,Hodgkin's Disease,aadb3d1e42176ab8f24c3b,643,1
+454,8,TCD,Leukemia,ab0fa27bbea611f10fa819,391,1
+1802,3,cord,Leukemia,ab5ebf7b09bc8dce9cd0c9,,0
+1067,5,PBSC_unmodified,Hodgkin's Disease,ab7baf661425182ae3fda2,278,1
+FMT.0054,10,PBSC_unmodified,Myelodysplastic Syndromes,aba877a42f584aaad6f786,,1
+1494,3,cord,Non-Hodgkin's Lymphoma,ac4f8196a273f551dcedae,,1
+262,4,cord,Leukemia,ac8c630385f262b666bd9e,235,1
+627,9,TCD,Leukemia,acbb76ae719e546b502612,527,1
+817,-4,BM_unmodified,Leukemia,ace2e7a358bef0f6664e31,565,1
+779,6,TCD,Multiple Myeloma,ace7f302244ef82c914d12,96,1
+190,10,TCD,Myelodysplastic Syndromes,ad0c33ba953c6aa8a68b6c,150,1
+139,8,TCD,Leukemia,ad3744deb80643f21c8448,241,1
+FMT.0085,8,TCD,Myeloproliferative Disorder,ad70c1155dcb39600174d5,,1
+FMT.0085,603,PBSC_unmodified,Myeloproliferative Disorder,ad70c1155dcb39600174d5,,1
+1144,10,TCD,Leukemia,ad8dd57fc75395cf0c5b9a,737,1
+FMT.0028,5,PBSC_unmodified,Leukemia,adc54714b4df020bdcfaf3,T4,1
+FMT.0227,13,TCD,Leukemia,add27d027c19c8566651c0,,1
+402,9,TCD,Leukemia,ade7050aa8b8b5eb9e9f18,366,1
+865,6,cord,Leukemia,ae1e5efff437f9c14f8084,28,1
+2199,1,PBSC_unmodified,,ae28ab8a55eb6307c766bd,,0
+125,2,PBSC_unmodified,Leukemia,af1dde9b3a68e69460d204,,1
+876,13,TCD,Multiple Myeloma,af958f63e8f8bdb573370c,607,1
+2070,-1,BM_unmodified,Myelodysplastic Syndromes,afb44399448e6f800c397f,,0
+725,0,cord,Leukemia,b0b69f83d67b2617fd1cd4,566,1
+418,6,TCD,Leukemia,b0fe10c6468a244264ae93,378,1
+FMT.0183,45,TCD,Myelodysplastic Syndromes,b15b305696c54ccb18bcdd,,1
+1791,-11,PBSC_unmodified,Non-Hodgkin's Lymphoma,b15ff567c31a7e367b96b2,,0
+544,5,cord,Leukemia,b19c0928dd2f525df99d39,45,1
+283,4,TCD,Leukemia,b2093cf2172f414887e375,329,1
+569,10,TCD,Leukemia,b2179fff6a71f2d6373f58,380,1
+1192,2,TCD,Leukemia,b23587b68b33a798501063,735,1
+1192,719,cord,Leukemia,b23587b68b33a798501063,735,1
+619,156,PBSC_unmodified,Non-Hodgkin's Lymphoma,b284969f9a39c3bbfad6ef,494,1
+FMT.0166,28,TCD,Leukemia,b29b4224f69df33317e7be,,1
+175,7,BM_unmodified,Myelodysplastic Syndromes,b2a7323c3c106fd61315cf,258,1
+573,5,cord,Non-Hodgkin's Lymphoma,b2cb585e81218793742558,415,1
+663,475,PBSC_unmodified,Non-Hodgkin's Lymphoma,b34aac732f3a845d3c979a,62,1
+909,9,TCD,Multiple Myeloma,b389dfa261297233a34ab1,132,1
+605,5,cord,Non-Hodgkin's Lymphoma,b3a23726dd0e4806830ce4,177,1
+FMT.0181,24,TCD,Myelodysplastic Syndromes,b3bf4d77d87908e868485c,,1
+489,7,PBSC_unmodified,Leukemia,b3e214f0952ba3d7994f3d,425,1
+550,0,PBSC_unmodified,Leukemia,b40d10558bd4df126120f4,84,1
+947,3,PBSC_unmodified,Leukemia,b42585d2b56a4007344cde,680,1
+FMT.0241,9,BM_unmodified,Non-Malignant Hemat Disorders,b4323dc60594ff9a0c81bc,,1
+273,7,TCD,Myelodysplastic Syndromes,b443b624a77000020ef9a7,322,1
+pt_with_samples_1094_1095_1096_1097_1098,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,b4476976cd291663dca076,6,1
+750,6,PBSC_unmodified,Leukemia,b460b77e4dd56944161cfa,,1
+703,4,PBSC_unmodified,Non-Hodgkin's Lymphoma,b46588762181e6373be3d6,507,1
+772,791,PBSC_unmodified,Non-Hodgkin's Lymphoma,b477b3dc7343e3616fe4da,582,1
+1290,1,TCD,Myeloproliferative Disorder,b49294dd503d3c1943a207,,1
+236,-5,cord,Leukemia,b5410a51f44a413faf0b48,323,1
+1981,6,TCD,Multiple Myeloma,b58ba077c38b5ba80996ea,,0
+591,5,PBSC_unmodified,Non-Hodgkin's Lymphoma,b592ba51d2f4be968f8c32,459,1
+839,10,TCD,Multiple Myeloma,b5ad18b54a08c056bc25e5,282,1
+773,8,TCD,Leukemia,b5eff09bb721d508fcf6fa,591,1
+1648,3,BM_unmodified,Myelodysplastic Syndromes,b5f7b6ca34a1f6d6bd9137,,1
+755,6,PBSC_unmodified,Leukemia,b5f7f8aaf7d79c7a76c362,444,1
+708,10,TCD,Myelodysplastic Syndromes,b684cc474eb07b3f830fa5,90,1
+437,6,PBSC_unmodified,Leukemia,b6cc59ec0cfdf95c98dcd3,376,1
+FMT.0197,16,PBSC_unmodified,Myeloproliferative Disorder,b6e7d2321d3fef695130aa,,1
+245,10,TCD,Multiple Myeloma,b6ecd3c5279e586ce03257,107,1
+778,5,cord,Leukemia,b77a02064eacc008606dc6,599,1
+472,5,cord,Non-Hodgkin's Lymphoma,b7ba7b5e608c78beb7598f,338,1
+FMT.0115,8,TCD,Leukemia,b8104be482d9306dbaf4e9,,1
+1063,5,PBSC_unmodified,Leukemia,b85bb475cfaa3b4fa9711f,72,1
+1171,5,cord,Leukemia,b85f30525ee6a36419bcb3,670,1
+1498,7,BM_unmodified,Myelodysplastic Syndromes,b88c02d1f416f34e05ba4d,,1
+445,4,PBSC_unmodified,Leukemia,b8a5e682aa9762db504359,,1
+576,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,b8e19cbdf1bf196f639f6e,67,1
+FMT.0147,9,cord,Leukemia,b8fa33cd5e19482a49d3c5,,1
+1150,4,PBSC_unmodified,Myelodysplastic Syndromes,b905a56eb130359ccd2152,661,1
+852,-1,cord,Leukemia,b930f93148bfc4f8cc9afd,610,1
+950,9,TCD,Myelodysplastic Syndromes,b933e14b6f06b036662c4e,43,1
+950,1377,PBSC_unmodified,Myelodysplastic Syndromes,b933e14b6f06b036662c4e,43,1
+614,174,TCD,Multiple Myeloma,b933ea160c6170c487464d,498,1
+195,2,TCD,Myelodysplastic Syndromes,b94ca1ba5615e5b044304a,257,1
+680,9,TCD,Multiple Myeloma,b98bd4632e269b2017be08,447,1
+1028,2,cord,Leukemia,b9a031f0dc4ac913c0b295,700,1
+470,8,TCD,Leukemia,ba1833211be7ca24147089,367,1
+FMT.0226,49,PBSC_unmodified,Non-Hodgkin's Lymphoma,ba207d0be64915b5df0036,,0
+2182,-4,PBSC_unmodified,,ba224fd004297b9f4ec573,,0
+467,5,cord,Leukemia,bb2dfad9d928c2bab18baa,407,1
+447,4,TCD,Myelodysplastic Syndromes,bbc3667037b4e3f3ea8076,384,1
+400,1,PBSC_unmodified,Leukemia,bbc933049d0bef2c18030c,314,1
+446,3,TCD,Myelodysplastic Syndromes,bbf3712d9d70fae1c0c8a2,400,1
+446,1661,PBSC_unmodified,Myelodysplastic Syndromes,bbf3712d9d70fae1c0c8a2,400,1
+FMT.0119,35,PBSC_unmodified,Myelodysplastic Syndromes,bc108ec29730fda866a949,,1
+122,-10,TCD,Leukemia,bc50a17d8ae54659808f03,202,1
+FMT.0211,14,TCD,Leukemia,bc7e7fe17dd8786aa1f36e,,1
+FMT.0211,536,cord,Leukemia,bc7e7fe17dd8786aa1f36e,,1
+1209,5,PBSC_unmodified,Non-Hodgkin's Lymphoma,bcb9e083674f694251d616,,1
+765,2,TCD,Leukemia,bcc02db27c0f4daf97f57a,585,1
+922,3,PBSC_unmodified,Leukemia,bcf0771451dbd779eff8e1,140,1
+1442,5,BM_unmodified,Leukemia,bd1ad86cf0226b12066f99,,1
+1442,272,PBSC_unmodified,Leukemia,bd1ad86cf0226b12066f99,,1
+1425,-10,cord,Leukemia,bd38471ffb7633a962b455,,1
+427,-1,PBSC_unmodified,Hodgkin's Disease,bd75518dd19212a0c76ecf,152,1
+1022,4,cord,Leukemia,bd872b06dbc027871de889,699,1
+249,5,TCD,Leukemia,bddb81ebee8e475abcdd5c,305,1
+782,4,TCD,Myelodysplastic Syndromes,be9d7820d544c39eee46b2,270,1
+1975,-11,PBSC_unmodified,Leukemia,bee0109281dca839b8a80d,,0
+FMT.0046,32,TCD,Myelodysplastic Syndromes,beffa68c86657c5a4ba6fe,,0
+FMT.0046,1222,BM_unmodified,,beffa68c86657c5a4ba6fe,,0
+1468,2,TCD,Myelodysplastic Syndromes,bf22d5a58ea6b3427edd69,,1
+2162,-1,PBSC_unmodified,,bf8a70efecd47606c9032a,,0
+FMT.0055,20,TCD,Myelodysplastic Syndromes,c00834cd4562c651c9d868,,1
+1251,3,PBSC_unmodified,Leukemia,c0127109b68485668fc517,,1
+1168,-10,PBSC_unmodified,Myeloproliferative Disorder,c01292e1d5f7c991dce86a,,1
+406,97,PBSC_unmodified,Non-Hodgkin's Lymphoma,c05b8ee2fa4235559925e7,86,1
+FMT.0210,-4,cord,Leukemia,c076b62b20f563ae586643,,1
+2163,3,PBSC_unmodified,,c108398ad35294e0eb1f16,,0
+1119,5,TCD,Myeloproliferative Disorder,c10dbacb321e4db27b2a94,164,1
+617,8,TCD,Leukemia,c127a7befa2982756a3d6e,501,1
+217,-1476,TCD,Leukemia,c143197bf7816736ae6165,69,0
+217,7,TCD,Leukemia,c143197bf7816736ae6165,69,0
+677,1,cord,Leukemia,c14a29539b25a382403632,522,1
+pt_with_samples_1110_1111,2,PBSC_unmodified,Hodgkin's Disease,c1659fb193a53211fda5cb,144,1
+843,7,TCD,Leukemia,c19896033d08963781018f,426,1
+654,3,TCD,Leukemia,c1a745928f6df3f0f55ca7,517,1
+1381,-8,PBSC_unmodified,Leukemia,c24546c67a2ccfbaada8fd,,1
+FMT.0172,11,PBSC_unmodified,Leukemia,c2a7132b7e9b270b9c5bdc,,1
+1299,-6,cord,Non-Hodgkin's Lymphoma,c2c522d7ee77d9220feb55,,1
+FMT.0080,5,PBSC_unmodified,Myelodysplastic Syndromes,c30ddb1f9cb76c2cc147f1,T9,1
+FMT.0153,7,cord,Leukemia,c34b41661c3c4b89c19376,,1
+885,0,BM_unmodified,Myelodysplastic Syndromes,c3b65300b7dad4f6be2113,622,1
+1207,10,TCD,Leukemia,c3d0f76ef97b2b5beee154,593,1
+1721,4,PBSC_unmodified,Non-Hodgkin's Lymphoma,c404e7a8b8b1304841370f,,0
+453,5,cord,Non-Hodgkin's Lymphoma,c4064beb16abb2e72e5512,25,1
+732,-1,TCD,Aplastic Anemia,c415fabbb8b86e3d4bf1f6,470,1
+1709,4,PBSC_unmodified,Leukemia,c4e99ddee3643413af6074,,0
+729,7,TCD,Myeloproliferative Disorder,c50f3af03bfb6690ceb125,559,1
+729,381,PBSC_unmodified,Myeloproliferative Disorder,c50f3af03bfb6690ceb125,559,1
+535,11,TCD,Leukemia,c525197308805b41a4cc57,455,1
+267,3,cord,Hodgkin's Disease,c5db188207cf41ee9040cf,307,1
+1404,3,TCD,Multiple Myeloma,c658ed3532040a8ec42393,,1
+711,8,TCD,Leukemia,c66ab320534348518b5a3c,550,1
+1921,1,PBSC_unmodified,Leukemia,c6d4f5faefc84ec180ad24,,0
+740,8,TCD,Multiple Myeloma,c7281bd3a5911e0c9d10a0,121,1
+pt_with_samples_1099_1100_1101_1102,2,PBSC_unmodified,Non-Hodgkin's Lymphoma,c78dd0c4fe1a56bb271f9c,151,1
+247,6,PBSC_unmodified,Leukemia,c850eb9fe4c24a02a64327,11,1
+598,6,cord,Leukemia,c8831de31bb8c776f02fe7,487,1
+pt_with_samples_1001_1002_1003_1004_1005_1006_1007_1008_1048_1121_152,21,cord,Leukemia,c8848e19e1175e744f8987,36,1
+749,14,cord,Myelodysplastic Syndromes,c8856bbb17648144364e4e,46,1
+969,7,TCD,Leukemia,c886d44d9d964c206a2b46,677,1
+519,9,PBSC_unmodified,Leukemia,c8cc77452fec019d8ce809,432,1
+pt_with_samples_2021_897,134,BM_unmodified,Leukemia,c8d8ec8ce947b7436a9561,596,1
+133,6,TCD,Multiple Myeloma,c8f9da7645e669f9714b47,138,1
+1170,3,PBSC_unmodified,Myelodysplastic Syndromes,c904444941336cb8964b0f,736,1
+pt_with_samples_2011_737,100,PBSC_unmodified,Leukemia,c9357549047f75c9059642,512,1
+803,4,BM_unmodified,Myelodysplastic Syndromes,c944ad81c84a8bb5fc52f7,118,1
+138,7,TCD,Leukemia,c95dbe8922fe4d39e7a6f8,248,1
+1426,4,BM_unmodified,Myelodysplastic Syndromes,c97e360e325748953e486c,,1
+FMT.0061,17,TCD,Myelodysplastic Syndromes,c989fa0e051492b49ac7ff,T7,1
+690,7,PBSC_unmodified,Non-Hodgkin's Lymphoma,c99d5513594bd8f1a8af5b,511,1
+1414,-4,PBSC_unmodified,Leukemia,ca1951f22b6048fc586dd6,,1
+774,5,PBSC_unmodified,Non-Hodgkin's Lymphoma,ca2bd0b317a3cb1cbcee4c,76,1
+2045,1,PBSC_unmodified,Myeloproliferative Disorder,ca2c8fbc9e81e396a437bc,,0
+2045,141,PBSC_unmodified,,ca2c8fbc9e81e396a437bc,,0
+910,7,TCD,Leukemia,ca2cb49b4a32d4cd31c072,612,1
+1398,429,PBSC_unmodified,Multiple Myeloma,ca775ebe4da302611f9478,,0
+743,9,TCD,Multiple Myeloma,ca85db5e2f5f9cf3199699,558,1
+264,9,TCD,Leukemia,ca87478766cecad2719e1d,301,1
+1816,-6,PBSC_unmodified,Leukemia,ca9512587998e63dcd50b2,,0
+FMT.0047,6,cord,Leukemia,cab9c999c365b723d167d1,,1
+462,4,PBSC_unmodified,Leukemia,cafba3b94d61c199a6003d,289,1
+919,3,TCD,Multiple Myeloma,cbb34eb86177475e5630b0,614,1
+272,4,TCD,Multiple Myeloma,cbdc04927ae407161b2c94,143,1
+1903,-4,BM_unmodified,Non-Hodgkin's Lymphoma,cc4266e7f23a1b848888f9,,0
+411,9,TCD,Multiple Myeloma,ccd7d535748f77cb74fc12,263,1
+FMT.0014,10,TCD,Leukemia,ccf4d5c648eda8a5371f20,,1
+628,1627,PBSC_unmodified,Non-Hodgkin's Lymphoma,cd99a08d64239bc1f88670,,1
+1755,3,BM_unmodified,Hodgkin's Disease,cdf3e2828d4098a08886da,,0
+2180,-3,cord,,ce47bd1832891848432d92,,0
+1945,-6,PBSC_unmodified,Leukemia,ce71dd61255e04c46bc349,,0
+FMT.0217,23,TCD,Myeloproliferative Disorder,cf25f4050a56f7147e00a8,,1
+494,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,cf750dbeb584ebe59b419c,29,1
+pt_with_samples_2019_760,57,TCD,Leukemia,cf7566327c93ce1dca4b4a,541,1
+558,1,PBSC_unmodified,Non-Hodgkin's Lymphoma,cf9d7d9a76f2fac3b9c615,369,1
+174,-12,PBSC_unmodified,Non-Hodgkin's Lymphoma,cfe5cbbe92166dcdf30075,134,1
+486,6,PBSC_unmodified,Leukemia,cfe8e65a6985ed0fdf5c50,414,1
+1949,6,TCD,Myelodysplastic Syndromes,d030c9790bf5f3616990c8,,0
+1810,2,cord,Leukemia,d03f6c09c69e5cbfd49f43,,0
+FMT.0100,173,TCD,Myelodysplastic Syndromes,d06b91be0e32acf7dfabc3,,1
+FMT.0199,8,PBSC_unmodified,Myelodysplastic Syndromes,d06f057f85396bbbd4d9e8,,1
+1088,7,PBSC_unmodified,Leukemia,d0b676f1c0595360364efa,,1
+FMT.0193,7,cord,Myelodysplastic Syndromes,d0e8e515877fbcf09ea536,,1
+862,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,d0fa661039ea4fda876fe6,124,1
+938,2,TCD,Myelodysplastic Syndromes,d1b6973b7297b113542be3,639,1
+515,8,TCD,Leukemia,d1d74c468001c10005413c,438,1
+172,14,cord,Non-Hodgkin's Lymphoma,d20ed7326a74302298f359,139,1
+FMT.0113,13,PBSC_unmodified,Leukemia,d29572ba327976de7cdc0c,,1
+FMT.0113,523,PBSC_unmodified,Leukemia,d29572ba327976de7cdc0c,,1
+799,5,BM_unmodified,Leukemia,d2bcb67956986275b1619f,597,1
+118,-13,TCD,Multiple Myeloma,d316292eb9e249dd8969f2,130,1
+727,196,TCD,Multiple Myeloma,d33c51b6d12f87a17ae779,83,1
+526,-5,TCD,Leukemia,d3736badc201a696e3ce8e,441,1
+526,227,PBSC_unmodified,Leukemia,d3736badc201a696e3ce8e,441,1
+2145,3,PBSC_unmodified,,d3a407cfcfc0c30741fd14,,0
+981,0,TCD,Leukemia,d3ec68d2bdce39a52b1cb9,689,1
+1917,3,PBSC_unmodified,Myelodysplastic Syndromes,d4139dc78c2a060ceb08d5,,0
+FMT.0230,22,PBSC_unmodified,Non-Hodgkin's Lymphoma,d42d28d406f5ccbe98e70c,,1
+506,9,TCD,Myelodysplastic Syndromes,d4d22823be6c1a806cd961,408,1
+1736,-9,BM_unmodified,Myeloproliferative Disorder,d4f8c90e6066bd2dbd638a,,0
+1731,4,TCD,Leukemia,d51b9711c26f54df210d85,,0
+1861,-5,PBSC_unmodified,Leukemia,d586cbd3ed35a526a63264,,0
+1814,2,PBSC_unmodified,Leukemia,d58cf35125159af640abc6,,0
+1037,-23,cord,Leukemia,d598722c905fe957f5b64a,,1
+819,2,TCD,Leukemia,d59c4baaa9bbd2afa0656c,450,1
+927,6,TCD,Myelodysplastic Syndromes,d5c68121c63178191417f0,618,1
+119,1,PBSC_unmodified,Non-Hodgkin's Lymphoma,d5de566e6f67112f5b3ef1,73,1
+401,3,TCD,Leukemia,d5e7b2f1acd77795a7f8f7,349,1
+1848,1,PBSC_unmodified,Multiple Myeloma,d627eb58494b9776512be7,,0
+488,8,TCD,Leukemia,d63219f1d6782229f84497,321,1
+721,8,TCD,Leukemia,d6538fcbfa44cac7582c38,562,1
+142,4,TCD,Leukemia,d6700d853c73e54471d95c,233,1
+996,8,TCD,Myeloproliferative Disorder,d6e36837565d3b50e675f6,506,1
+244,6,cord,Leukemia,d6ed2456c0533041010152,332,1
+FMT.0102,18,PBSC_unmodified,Myeloproliferative Disorder,d755c92bf92d62936aeabc,,1
+1745,-41,PBSC_unmodified,Hodgkin's Disease,d75ab4d87df69c8b77399d,,0
+169,5,PBSC_unmodified,Non-Hodgkin's Lymphoma,d7820e265393d5c300d261,24,1
+1951,3,TCD,Leukemia,d7b364fd8b7d9cd9626c9e,,0
+1392,-525,BM_unmodified,Leukemia,d7ca93f803bcf1e74d37b6,,1
+1392,240,BM_unmodified,Leukemia,d7ca93f803bcf1e74d37b6,,1
+1064,4,BM_unmodified,Non-Malignant Hemat Disorders,d7ccd1f642b15b75c4c6df,697,1
+256,10,TCD,Leukemia,d7d7c1fe5d8dbdcb034780,296,1
+FMT.0186,102,TCD,Leukemia,d80b7783edd2eb82c5253b,,1
+1334,0,PBSC_unmodified,Non-Hodgkin's Lymphoma,d88d2e3f1808df1d9e9c5f,,1
+1905,1,BM_unmodified,Hodgkin's Disease,d8aacb6c1246d900e40c67,,0
+1108,6,BM_unmodified,Leukemia,d90a6e6f5dd26ff1bafb5b,569,1
+FMT.0103,13,BM_unmodified,Myelodysplastic Syndromes,d90e1b7f7d96d7133d7172,C10,1
+116,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,d92f3ef72e077278ecd638,181,1
+735,6,cord,Leukemia,d9352d5bfcfe3a40abfd6a,560,1
+853,-10,PBSC_unmodified,Leukemia,d9627ffe0e329e7f508b0d,431,1
+FMT.0035,21,cord,Leukemia,d98075bf7fe4523e409606,T5,1
+163,-2002,PBSC_unmodified,Leukemia,da03037e5b36f603bcefc4,,0
+163,-873,TCD,Leukemia,da03037e5b36f603bcefc4,,0
+FMT.0013,21,PBSC_unmodified,Myeloproliferative Disorder,da09912abd48b928c6486c,,1
+1141,5,PBSC_unmodified,Leukemia,da27258bea35b862439d00,644,1
+161,3,TCD,Myelodysplastic Syndromes,da3f090908e54b9a03cab2,237,1
+275,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,da4f201b8f7370fb97ec56,310,1
+2127,3,cord,,da652e4874d0e075c02ee8,,0
+1574,8,TCD,Leukemia,da875ef8e3b611bbf98448,,1
+FMT.0082,92,TCD,Leukemia,dafca5dbb7e43c72a712b9,,1
+FMT.0150,1,PBSC_unmodified,Leukemia,db22bca04b9452b8986b2c,,1
+691,5,PBSC_unmodified,Non-Hodgkin's Lymphoma,db417327169b788184d8d5,327,1
+1915,1,TCD,Myeloproliferative Disorder,db5a18d3fa0cad732a7610,,0
+1493,8,TCD,Leukemia,db9c35508f936bb451eec1,,1
+429,7,TCD,Myelodysplastic Syndromes,dba92ffb554049ad49062a,243,1
+1003,-3,PBSC_unmodified,Leukemia,dc043119b5b9e11ad8070d,695,1
+2196,1,PBSC_unmodified,,dcc623a0b541e44c3dcc9a,,0
+1710,3,cord,Leukemia,dd03d010abd3c5f867f9a4,,0
+1247,5,PBSC_unmodified,Non-Hodgkin's Lymphoma,dd5886623f7863ec6288ba,251,1
+1075,6,PBSC_unmodified,Leukemia,dd6cc9f888aa7638f3ff88,429,1
+149,2,TCD,Leukemia,dd81a2036c594c42e0488d,194,1
+1054,3,TCD,Leukemia,dd9c242423c29375bdd321,,1
+1044,7,PBSC_unmodified,Leukemia,dd9e2e0709a2beaa745376,698,1
+539,2,PBSC_unmodified,Myelodysplastic Syndromes,ddd14c25c733edba162b3e,98,1
+584,-18,cord,Leukemia,ddeb8f57e1255983c91a3c,478,1
+255,8,TCD,Myelodysplastic Syndromes,de0d94443c69b56757adfa,191,1
+1899,3,BM_unmodified,Leukemia,de2395aadb80773088fecc,,0
+666,7,PBSC_unmodified,Hodgkin's Disease,de732d277cece166296156,515,1
+554,8,TCD,Leukemia,dee83e570368b5ddc79aac,477,1
+155,28,TCD,Non-Hodgkin's Lymphoma,df0ed1f76ea41f6e993a10,262,1
+FMT.0126,17,TCD,Multiple Myeloma,df557d369287506531c4ff,,1
+FMT.0126,624,PBSC_unmodified,Multiple Myeloma,df557d369287506531c4ff,,1
+1843,6,cord,Leukemia,df7d3f71ada64958b54d8f,,0
+1773,6,PBSC_unmodified,Myelodysplastic Syndromes,df7d92498290fbd95e0c59,,0
+1728,6,BM_unmodified,Aplastic Anemia,dfabe1fb0f178db83412e2,,0
+FMT.0180,7,PBSC_unmodified,Hodgkin's Disease,dfcd65577149f3a88d568f,,1
+FMT.0079,20,PBSC_unmodified,Leukemia,e01b8c4e252690d8537519,741,1
+1379,3,BM_unmodified,Myelodysplastic Syndromes,e07fceea54405f5fe89c74,,1
+1656,3,PBSC_unmodified,Myeloproliferative Disorder,e0844d613a13c80d5104aa,,0
+886,9,TCD,Non-Malignant Hemat Disorders,e08965d8561b6cd69454fc,581,1
+202,4,PBSC_unmodified,Leukemia,e0ac0234dff29770efe771,276,1
+431,9,TCD,Myelodysplastic Syndromes,e0c765ca0c0ce08d200f53,328,1
+543,7,TCD,Myeloproliferative Disorder,e1159b463f8bf022fcd2c9,454,1
+1552,9,TCD,Myelodysplastic Syndromes,e176edf8e4317d9aa39a4e,,0
+234,-1826,TCD,Leukemia,e1aa11eb2ecba8b78ee7b3,75,0
+234,6,PBSC_unmodified,Leukemia,e1aa11eb2ecba8b78ee7b3,75,0
+514,-4,BM_unmodified,Leukemia,e1dca9eea960e3db11dc1c,442,1
+624,9,TCD,Leukemia,e25f8c23eb8f49e336489b,524,1
+624,226,cord,Leukemia,e25f8c23eb8f49e336489b,524,1
+FMT.0130,10,PBSC_unmodified,Non-Hodgkin's Lymphoma,e28aa9c173e6b38fdc5c01,,1
+1959,7,TCD,Leukemia,e2e0c9b3af25db7f477b6e,,0
+707,0,TCD,Multiple Myeloma,e3072e63d76d3907b066ea,125,1
+FMT.0012,10,cord,Leukemia,e3120f08e9acc7aac5701e,,1
+450,4,TCD,Multiple Myeloma,e36682aefba9db3c7e85d0,133,1
+1017,-1,PBSC_unmodified,Myelodysplastic Syndromes,e3a309c1146abfe508afd8,104,1
+913,9,TCD,Multiple Myeloma,e3ef49c3bae2f966301325,49,1
+1570,5,BM_unmodified,Myeloproliferative Disorder,e3f13770f50a5d89745c66,,0
+428,6,cord,Hodgkin's Disease,e42f375ec004a7e0fb465b,336,1
+1530,8,BM_unmodified,Leukemia,e45518ce28c1f70e4f8eb0,,1
+589,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,e4cd0566f7d6e764f462fa,92,1
+180,6,PBSC_unmodified,Leukemia,e4d2e4847b371b021fdebd,226,1
+493,-1208,cord,Leukemia,e59efb85b8ade0465fe156,,1
+1858,1,TCD,Leukemia,e6205fc0e2fcc52f6bfc88,,0
+1157,5,cord,Leukemia,e65b3dec1314cdb5bb2e77,753,1
+1855,1,PBSC_unmodified,Leukemia,e6633834afcb8fe2e43c31,,0
+1691,2,BM_unmodified,Leukemia,e6a5b51953e559fcfcc39f,,0
+pt_with_samples_1081_1082_1083_1084_1085,7,PBSC_unmodified,Leukemia,e6a99472131da62be4d301,37,1
+pt_with_samples_2012_793,204,cord,Leukemia,e6ef9354a2638f2045a4b8,567,1
+1520,593,PBSC_unmodified,,e6fa747726be7cf0df22aa,,0
+697,5,PBSC_unmodified,Leukemia,e6fe7c93ff21d5ded7c50b,540,1
+FMT.0077,15,TCD,Myelodysplastic Syndromes,e730f79dd280af252193ee,723,1
+FMT.0077,364,PBSC_unmodified,,e730f79dd280af252193ee,723,1
+533,5,cord,Leukemia,e74a8736058380cc0aab3f,456,1
+668,862,PBSC_unmodified,Multiple Myeloma,e79d84eae0b4a108703649,530,1
+586,-1,cord,Leukemia,e7a7e36e301ccb4d5364ac,135,1
+269,5,PBSC_unmodified,Non-Hodgkin's Lymphoma,e7a96c634de42fde836ce8,189,1
+1271,5,PBSC_unmodified,Myeloproliferative Disorder,e7c04f5c7abf2b3860530a,720,1
+480,6,PBSC_unmodified,Leukemia,e7d155a83cef55d002625d,394,1
+2117,0,cord,,e7d60160755f5724f518d2,,0
+FMT.0221,9,PBSC_unmodified,Non-Hodgkin's Lymphoma,e814ffc003abf35f95a32b,,1
+863,6,cord,Myelodysplastic Syndromes,e81e9df94310ffcac1475e,605,1
+1809,3,TCD,Non-Malignant Hemat Disorders,e8fd4faf423ddcc9cd836f,,0
+808,1,TCD,Leukemia,e8fe8b547214e2ef044385,595,1
+154,3,PBSC_unmodified,Non-Hodgkin's Lymphoma,e90bae5b301dce57e97f53,48,1
+877,3,PBSC_unmodified,Leukemia,e96001a7ebf88f3270aba3,629,1
+187,7,TCD,Multiple Myeloma,e9b08cbdf210788ac867d2,200,1
+746,-5,TCD,Leukemia,e9de0a372632652230dc13,572,1
+pt_with_samples_1070_1071_1072_1073,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,e9e54fc03868d74a3df07f,123,1
+448,7,PBSC_unmodified,Leukemia,ea18eb8beb1d559503b5a0,377,1
+1400,5,PBSC_unmodified,Leukemia,ea42dedafcda4a9f91e613,,1
+1882,5,TCD,Myeloproliferative Disorder,ea4c1d7c08f12933707bdb,,0
+FMT.0003,36,TCD,Leukemia,ea8209379f38be340324f8,,1
+148,-43,PBSC_unmodified,Leukemia,ea9a9506a4187579b20006,220,1
+1957,9,TCD,Leukemia,eada1e78c77ce18dc88eec,,0
+FMT.0083,13,TCD,Leukemia,ebaa04cc8d02a01648a57b,761,1
+FMT.0083,378,PBSC_unmodified,Leukemia,ebaa04cc8d02a01648a57b,761,1
+1605,2,TCD,Myeloproliferative Disorder,ebc876a2ac60807d1a8612,,1
+1431,2,TCD,Leukemia,ebe72582da5c7f8a5803bc,,1
+929,3,TCD,Leukemia,ec5d4bb4a445038b6e906b,647,1
+1099,5,PBSC_unmodified,Leukemia,ec6042c6490bb30ef76cd4,228,1
+768,5,TCD,Multiple Myeloma,ec6ba6b8380065ac3545a3,341,1
+289,9,TCD,Leukemia,ec8ac998a27508cb7bb58a,350,1
+983,2,PBSC_unmodified,Non-Hodgkin's Lymphoma,ec9e1bc0b0c89491bf63c7,39,1
+FMT.0094,13,TCD,Leukemia,ece90549698de0564a9f97,T10,1
+FMT.0049,7,PBSC_unmodified,Leukemia,ed169b0918c38e8de32f57,,1
+1127,2,PBSC_unmodified,Hodgkin's Disease,ed7700f07627e33d53ddf4,288,1
+146,-215,TCD,Leukemia,ed78f5eb4d1eeac1162649,,1
+FMT.0248,10,TCD,Leukemia,ed9f94fb240d230eb4633c,,1
+1303,1,PBSC_unmodified,Leukemia,ede88811ca90e7f051464a,742,1
+1432,7,TCD,Leukemia,edf072fa8d18450bfa5b93,,1
+1191,5,BM_unmodified,Leukemia,ee3b2b943a6fff993e1ee2,751,1
+FMT.0116,7,PBSC_unmodified,Non-Hodgkin's Lymphoma,ee58ad4844a5528cc51f76,,1
+916,2,cord,Leukemia,ee7a7830827d25989e5d38,41,1
+FMT.0070,33,PBSC_unmodified,Leukemia,ee8bf08f67564f39262821,,1
+225,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,eec07cf3c8831138082ac8,271,1
+870,9,TCD,Leukemia,eec184b965d5c55b7604bd,624,1
+1243,4,BM_unmodified,Non-Hodgkin's Lymphoma,ef4a461874d3ff6c881700,760,1
+604,-4,TCD,Leukemia,ef590ede856d6f597d61a0,492,1
+1445,-12,PBSC_unmodified,Non-Hodgkin's Lymphoma,ef9040125dd3c4f6883eb8,,1
+232,5,cord,Leukemia,efe404f8baa4bcffc3243d,315,1
+579,2,cord,Leukemia,f0124941d8b75b31a30471,483,1
+804,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,f012a3edb5e33fb80c541e,519,1
+FMT.0239,15,PBSC_unmodified,Leukemia,f01d45ee68f260f9f5727a,,1
+2023,71,PBSC_unmodified,Leukemia,f087d8c9eb0081a6c8b79e,702,1
+527,6,TCD,Myelodysplastic Syndromes,f0974975420e8d7178282c,439,1
+FMT.0144,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,f0a9a0cb1ed83ed2644c5c,,1
+783,-2,TCD,Myelodysplastic Syndromes,f0b91399bd1e438b0c97a5,592,1
+157,11,TCD,Leukemia,f0cb03f0db0f192f10563a,245,1
+1195,6,cord,Leukemia,f14a2050cc330c868ca5aa,,1
+1331,4,PBSC_unmodified,Leukemia,f1610b7f6f986abb88f0e2,,1
+1706,1,PBSC_unmodified,Leukemia,f16f2e2198dd30e00de807,,0
+991,3,PBSC_unmodified,Non-Hodgkin's Lymphoma,f17c25f02ff31f170a9ea8,446,1
+1560,4,PBSC_unmodified,Multiple Myeloma,f19a97265e1fea7d5a4287,,1
+1760,3,PBSC_unmodified,Myelodysplastic Syndromes,f1a0f4e258f101d28afb8e,,0
+FMT.0039,6,cord,Leukemia,f1c248cd1d9bbac6711114,C3,1
+479,5,PBSC_unmodified,Leukemia,f1ec1149761ad13003eba5,430,1
+660,1,TCD,Myelodysplastic Syndromes,f1f27f67473e789ad303b7,365,1
+1012,5,cord,Leukemia,f1f90aeb79b29632c98c94,667,1
+1872,2,BM_unmodified,Non-Hodgkin's Lymphoma,f22286f1b160503eab74b9,,0
+FMT.0215,7,TCD,Myelodysplastic Syndromes,f263a1718311c287478243,,1
+183,9,TCD,Leukemia,f2adc900101e032635a08c,287,1
+FMT.0205,9,PBSC_unmodified,Hodgkin's Disease,f2e0cd17f4d16361dcd65a,,1
+705,4,TCD,Multiple Myeloma,f2eaae25db57a329b763f1,166,1
+1995,-4,PBSC_unmodified,Non-Hodgkin's Lymphoma,f347d681e09d53916f5cac,,0
+1462,2,PBSC_unmodified,Leukemia,f34b05dbda393a17370eb8,,1
+2206,8,PBSC_unmodified,,f39b0a501992f284783b11,,0
+416,11,BM_unmodified,Leukemia,f3ba9db9122ee6f33f508a,356,1
+747,4,TCD,Leukemia,f42732993302412072f060,381,1
+FMT.0021,9,TCD,Multiple Myeloma,f449a7d47b27e681a89bdc,,1
+pt_with_samples_1074_1075_1076,1,PBSC_unmodified,Non-Hodgkin's Lymphoma,f4b9e514198ad27ee7c38e,156,1
+1665,5,PBSC_unmodified,Myeloproliferative Disorder,f4c7258b4a446998810956,,0
+1353,4,PBSC_unmodified,Leukemia,f4ce890d3b3a2c6d8a3972,,1
+893,-10,PBSC_unmodified,Myelodysplastic Syndromes,f50a9c77c2cfc833ca7718,609,1
+761,3,BM_unmodified,Leukemia,f522d632906af2a1e513c3,335,1
+FMT.0001,5,BM_unmodified,Leukemia,f59248b285b757a9899418,T1,1
+233,10,TCD,Myelodysplastic Syndromes,f592dc5d1c1d8f2359795d,300,1
+FMT.0125,198,BM_unmodified,Leukemia,f642a1078a7ab9ffe16158,,1
+534,-4,cord,Leukemia,f675db368a937bafc29fb6,374,1
+1911,3,PBSC_unmodified,Leukemia,f6ae3c2e5a6c8ed2c9962b,,0
+FMT.0052,20,BM_unmodified,Myelodysplastic Syndromes,f6eefa4feaf0975772d863,,1
+864,7,TCD,Leukemia,f71ca0eb3337606a6a9729,621,1
+1865,8,TCD,Myelodysplastic Syndromes,f77831b99da2b2e8059fa6,,0
+1976,4,PBSC_unmodified,Non-Hodgkin's Lymphoma,f80d95b92eec78b4adda70,,0
+895,-1686,TCD,Leukemia,f821a13262bf72f7449e71,,1
+FMT.0066,7,PBSC_unmodified,Leukemia,f871850139cd8c88db1aec,,1
+260,0,TCD,Myelodysplastic Syndromes,f8d71212664531ffa166cc,298,1
+134,5,PBSC_unmodified,Leukemia,f8f43d9f6acb3109d99842,205,1
+134,379,PBSC_unmodified,Leukemia,f8f43d9f6acb3109d99842,205,1
+541,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,f9279de7beb9998164b347,361,1
+237,2,PBSC_unmodified,Non-Hodgkin's Lymphoma,f92f25592ed1296f0d1e88,101,1
+194,9,TCD,Leukemia,f954b631deb524009ce371,230,1
+1246,7,PBSC_unmodified,Non-Hodgkin's Lymphoma,f9744839960d111e1c9d1f,,1
+FMT.0158,23,TCD,Leukemia,f9d0d0ce191445b9763199,776,1
+FMT.0158,178,PBSC_unmodified,Leukemia,f9d0d0ce191445b9763199,776,1
+468,1,TCD,Myelodysplastic Syndromes,fa0498a2aa1e8f8c355b94,344,1
+2133,3,PBSC_unmodified,,fa217db3172cd5b30d7031,,0
+840,9,TCD,Leukemia,fa58f4e9583d00c161428a,,1
+840,997,PBSC_unmodified,Leukemia,fa58f4e9583d00c161428a,,1
+688,8,TCD,Multiple Myeloma,fa884843a743ceed3e4101,481,1
+2054,-18,cord,Leukemia,fa99900d00948f3646a0ba,,0
+861,6,TCD,Myelodysplastic Syndromes,faa08083ff511c29a4aca8,53,1
+547,7,cord,Leukemia,faca3fc44c29be9404d488,,1
+112,155,TCD,Multiple Myeloma,fafbdaa3227f32b6a670c9,236,1
+511,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,fb392a4dc6ca3cf114286c,422,1
+144,5,PBSC_unmodified,Non-Hodgkin's Lymphoma,fb4aed38182c2607936a23,175,1
+1046,9,TCD,Leukemia,fb60a8dfaaeedb22efd8cb,708,1
+1838,2,TCD,Leukemia,fb96ba7c073015acfebf81,,0
+894,0,BM_unmodified,Leukemia,fbd71013cda7e36c63fe68,628,1
+FMT.0009,6,PBSC_unmodified,Myelodysplastic Syndromes,fbd892ee98b7d398f1506e,C1,1
+451,0,cord,Leukemia,fbe5b8b082750b91724e1e,403,1
+1842,7,BM_unmodified,Leukemia,fc0103da11bcae7b355b7e,,0
+948,3,PBSC_unmodified,Leukemia,fc02ad78d0c63eff08b666,653,1
+FMT.0179,13,TCD,Leukemia,fc07a208f5a95e47a3724b,,1
+835,79,TCD,Multiple Myeloma,fc140805c82997f90c2e01,449,1
+713,7,cord,Leukemia,fc156b3669a573971cdef6,7,1
+FMT.0151,11,BM_unmodified,Leukemia,fc653b7381e2624c703935,197,1
+1050,5,PBSC_unmodified,Myelodysplastic Syndromes,fca7f81b698878e8a9750f,153,1
+2042,-12,PBSC_unmodified,Myelodysplastic Syndromes,fce9962ce0bda72e9a71fa,,0
+261,2,PBSC_unmodified,Non-Hodgkin's Lymphoma,fcf20bff0215be9f66a710,184,1
+1174,6,cord,Non-Hodgkin's Lymphoma,fd1885d3dcaadfb55cde1c,,1
+854,2,PBSC_unmodified,Leukemia,fdcfcbda56373c7f0b71b5,561,1
+1186,5,BM_unmodified,Non-Malignant Hemat Disorders,fdd6a16e1797be664b59b5,759,1
+FMT.0081,6,cord,Leukemia,fdd7818b9812973309d735,671,1
+1147,-12,PBSC_unmodified,Myelodysplastic Syndromes,fdd8626c17ef25852bbe89,630,1
+1720,2,BM_unmodified,Myelodysplastic Syndromes,fdd97af364815b4eb7e182,,0
+1617,2,BM_unmodified,Leukemia,fe064b7e5431f884d168df,,0
+982,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,fe3fae4eb74de40c362512,665,1
+FMT.0223,10,TCD,Multiple Myeloma,fe5d59743a68305ac5cf35,,1
+1160,6,PBSC_unmodified,Non-Hodgkin's Lymphoma,fe92a6e334f3ec8a2062e8,694,1
+pt_with_samples_1019_1020_1021_1022_1023_1024,7,cord,Leukemia,fee41993ccb6ca25689f7d,193,1
+FMT.0236,15,PBSC_unmodified,Myelodysplastic Syndromes,fee849ce466637098d4a4a,,1
+671,5,cord,Leukemia,ff0027e7de97671e2a4218,531,1
+123,8,PBSC_unmodified,Leukemia,ff1747f896ef4e6f987a14,206,1
+826,9,TCD,Myelodysplastic Syndromes,ff3800c6f18651feb4a133,60,1
+pt_with_samples_1105_1106_1107_1108,6,cord,Leukemia,ff493eac17bd83d1a2c57c,,1
+1759,8,cord,Leukemia,ff650b2e1faab2a3fbcfc9,,0
+559,-5,TCD,Leukemia,ffcf59d52566ac7729521f,458,1
+140,-236,PBSC_unmodified,Hodgkin's Disease,ffe9adf3d8b0ab843ff29e,,1
+1965,3,cord,Leukemia,ffe9f50b4d9ae12e3ae671,,0
