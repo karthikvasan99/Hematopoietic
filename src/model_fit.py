@@ -255,11 +255,19 @@ def run_phase_1(train_loader, val_loader, num_asvs, K=10, epochs=1500, cache_dir
     
     return Theta_fixed.cpu()
 
-def run_phase_2(train_loader, val_loader, num_patients, num_drugs, K=10, epochs=1000):
+def run_phase_2(train_loader, val_loader, num_patients, num_drugs, K=10, epochs=1000, cache_dir='.'):
     device = torch.device("cuda" if torch.cuda.is_available() else "mps" if torch.backends.mps.is_available() else "cpu")
+    model = Phase2_Dynamics(num_patients, num_drugs, K).to(device)
+    cache_dynamics = os.path.join(cache_dir, f'dynamics_model_K{K}.pt')
+    
+    if os.path.exists(cache_dynamics):
+        print(f"\n=== PHASE 2: LOADING FROM CACHE (K={K}) ===")
+        print("Found existing Phase 2 model weights. Skipping Phase 2 training!")
+        model.load_state_dict(torch.load(cache_dynamics, map_location=device, weights_only=True))
+        return model
+
     print(f"\n=== PHASE 2: DYNAMIC MODELING (on {device}) ===")
     
-    model = Phase2_Dynamics(num_patients, num_drugs, K).to(device)
     # Added L2 regularization (weight_decay) for stable drug embeddings
     optimizer = torch.optim.Adam(model.parameters(), lr=0.01, weight_decay=1e-4)
     
@@ -302,6 +310,8 @@ def run_phase_2(train_loader, val_loader, num_patients, num_drugs, K=10, epochs=
             mean_sigma = torch.exp(model.log_sigma).mean().item()
             print(f"Epoch {epoch:04d} | Train NLL: {train_loss/len(train_loader.dataset):.4f} | Val NLL: {val_loss/len(val_loader.dataset):.4f} | Tau: {tau_days:.1f}d | Mean Sigma: {mean_sigma:.3f}")
             
+    torch.save(model.state_dict(), cache_dynamics)
+    print(f"Saved Phase 2 model weights to {cache_dynamics}")
     return model
 
 def evaluate_and_plot(dynamics_model, Theta, val_loader):
@@ -335,8 +345,11 @@ def evaluate_and_plot(dynamics_model, Theta, val_loader):
     y_true_filtered = y_true[mask]
     y_pred_filtered = y_pred[mask]
     
-    corr = np.corrcoef(y_true_filtered, y_pred_filtered)[0, 1]
-    print(f"Final Validation Pearson Correlation: {corr:.4f}")
+    log_y_true = np.log(y_true_filtered)
+    log_y_pred = np.log(y_pred_filtered)
+    
+    corr = np.corrcoef(log_y_true, log_y_pred)[0, 1]
+    print(f"Final Validation Pearson Correlation (log scale): {corr:.4f}")
     
     plt.figure(figsize=(8, 8))
     plt.scatter(y_true_filtered, y_pred_filtered, alpha=0.1, s=15, color='royalblue')
@@ -347,13 +360,59 @@ def evaluate_and_plot(dynamics_model, Theta, val_loader):
     plt.ylim(1e-5, 1.1)
     plt.xlabel('True Relative Abundance', fontsize=12)
     plt.ylabel('Predicted Relative Abundance', fontsize=12)
-    plt.title(f'Phase 1 + Phase 2 Validation Predictions\nPearson r: {corr:.3f}', fontsize=14)
+    plt.title(f'Phase 1 + Phase 2 Validation Predictions\nPearson r (log scale): {corr:.3f}', fontsize=14)
     plt.legend()
     plt.grid(True, alpha=0.3)
     
     plot_path = "validation_scatter.png"
     plt.savefig(plot_path, dpi=300, bbox_inches='tight')
     print(f"Scatter plot saved to {plot_path}")
+
+def save_model_results(dynamics_model, Theta, patient_list, patient2idx, asv_names, drug2idx, K=10, save_dir='.'):
+    os.makedirs(save_dir, exist_ok=True)
+    
+    mu_p = dynamics_model.mu_p.weight.detach().cpu()
+    sigma = torch.exp(dynamics_model.log_sigma).detach().cpu()
+    cov_matrix = torch.diag(sigma ** 2)
+    tau = torch.exp(dynamics_model.log_tau).detach().cpu()
+    V_m = dynamics_model.V_m.weight.detach().cpu()
+    Theta_tensor = Theta.detach().cpu() if isinstance(Theta, torch.Tensor) else torch.tensor(Theta)
+    
+    # 1. Save complete PyTorch checkpoint dictionary
+    bundle_path = os.path.join(save_dir, f'model_params_K{K}.pt')
+    torch.save({
+        'K': K,
+        'mu_p': mu_p,
+        'sigma': sigma,
+        'cov_matrix': cov_matrix,
+        'log_sigma': dynamics_model.log_sigma.detach().cpu(),
+        'tau': tau,
+        'log_tau': dynamics_model.log_tau.detach().cpu(),
+        'V_m': V_m,
+        'Theta': Theta_tensor,
+        'patient_list': patient_list,
+        'patient2idx': patient2idx,
+        'asv_names': asv_names,
+        'drug2idx': drug2idx,
+        'state_dict': dynamics_model.state_dict(),
+    }, bundle_path)
+    print(f"\nSaved complete model parameters to {bundle_path}")
+    
+    # 2. Save patient mean embeddings DataFrame (CSV)
+    df_mu = pd.DataFrame(
+        mu_p.numpy(),
+        index=patient_list,
+        columns=[f'latent_{i}' for i in range(K)]
+    )
+    df_mu.index.name = 'PatientID'
+    csv_mu_path = os.path.join(save_dir, f'patient_mean_embeddings_K{K}.csv')
+    df_mu.to_csv(csv_mu_path)
+    print(f"Saved patient mean embeddings to {csv_mu_path}")
+    
+    # 3. Save covariance matrix (Numpy)
+    cov_path = os.path.join(save_dir, f'global_covariance_K{K}.npy')
+    np.save(cov_path, cov_matrix.numpy())
+    print(f"Saved global covariance matrix to {cov_path}")
 
 if __name__ == "__main__":
     device = torch.device("cuda" if torch.cuda.is_available() else "mps" if torch.backends.mps.is_available() else "cpu")
@@ -422,3 +481,14 @@ if __name__ == "__main__":
     )
     
     evaluate_and_plot(dynamics_model, Theta_fixed, val_loader)
+    
+    save_model_results(
+        dynamics_model=dynamics_model,
+        Theta=Theta_fixed,
+        patient_list=patient_list,
+        patient2idx=patient2idx,
+        asv_names=asv_df.columns.tolist(),
+        drug2idx=drug2idx,
+        K=K_latent,
+        save_dir='.'
+    )
